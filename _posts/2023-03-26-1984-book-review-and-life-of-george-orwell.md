@@ -23,8 +23,6 @@ One of the key messages of "1984" is the concept of a surveillance state, where 
 
 Today, we live in a world where our every move is monitored and our every action is tracked. We are watched by surveillance cameras on the street, tracked by GPS in our smartphones, and monitored by social media platforms that keep track of our every online activity. While the government has always claimed that these measures are for our safety, it is becoming increasingly clear that they are more interested in control than in protecting our freedoms.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530698dd-9dac-460c-82dc-9b223713a4bb_353x500.jpeg =353x500)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F530698dd-9dac-460c-82dc-9b223713a4bb_353x500.jpeg)
-
 Moreover, "1984" highlights the dangers of propaganda and the manipulation of information. In the novel, the government controls information through the use of Newspeak, a language designed to limit free thought and promote conformity. This kind of propaganda is not merely a product of fiction, but a reality that is evident in modern-day society.
 
 We are constantly bombarded by mainstream media outlets that peddle an increasingly polarized narrative, which is often at odds with reality. The government uses this propaganda to control the way we think, shaping our beliefs and values to conform to its ideology. This kind of manipulation is not limited to politics, but can be found in advertising, education, and even popular culture.
@@ -32,8 +30,6 @@ We are constantly bombarded by mainstream media outlets that peddle an increasin
 Furthermore, "1984" warns against the dangers of military spending and the militarization of society. The novel features a perpetual war that is used to justify the government's use of resources and control over its citizens. This message is particularly relevant today, as we see an ever-increasing budget to the military and the militarization of our police force.
 
 The military-industrial complex is a powerful force that has a vested interest in maintaining a state of perpetual war. This not only drains resources from other areas of society but also normalizes violence and aggression. As we become increasingly desensitized to violence, it becomes easier for the government to justify its use of force against its own citizens.
-
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d0d959f-db08-4de9-98bc-85863b60a7be_612x612.jpeg =612x612)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d0d959f-db08-4de9-98bc-85863b60a7be_612x612.jpeg)
 
 I believe "1984" is a powerful warning against the dangers of totalitarianism, surveillance, propaganda, and militarization. It serves as a reminder of the importance of preserving individual liberties and resisting the kind of government control that seeks to limit our freedoms. We must remain vigilant against the erosion of our rights and freedoms and work to ensure that our society remains open and free. As George Orwell himself said, "In a time of deceit, telling the truth is a revolutionary act."
 
