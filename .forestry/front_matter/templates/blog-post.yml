@@ -15,6 +15,12 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  hidden: true
+  default: post
 pages:
 - _posts/2023-03-26-20-years-of-war-in-the-middle-east-who-must-be-held-accountable.md
-- _posts/welcome-to-the-incident.md
