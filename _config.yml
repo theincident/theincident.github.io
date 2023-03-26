@@ -1,6 +1,14 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'The Incident'
+description: 'Welcome to The Incident, an independent journalism news website dedicated to shedding light on the critical issues impacting politics, economics, AI, and corruption. Our team of experienced journalists is committed to uncovering the truth behind the workings of the media, corporations, and the Deep State, to bring you unfiltered, unbiased, and honest news.
+
+We believe that in today's world, where misinformation and propaganda are rampant, it's crucial to provide our readers with accurate and factual information. That's why we are dedicated to reporting on stories that the mainstream media ignores or overlooks.
+
+Our articles cover a wide range of topics, including the latest political developments, economic policies, advances in AI, and corruption in the corporate world. We delve deep into these issues to provide you with a comprehensive understanding of the events shaping our world.
+
+At The Incident, we value our readers and their right to know the truth. That's why we follow strict ethical standards, and our reporting is entirely independent of any political or corporate influence.
+
+We invite you to join us on this journey of uncovering the truth and making sense of the complex issues affecting our world today. Stay informed with The Incident.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
@@ -12,20 +20,22 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
-    sal:
-      name:           Sal
+    isaac:
+      name:           Isaac Horton
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Isaac Horton is the passionate writer and creator of The Incident, with a strong dedication to free speech, exposing corruption, and investigative journalism. With a deep desire to uncover the truth behind the workings of the powerful, Isaac is committed to exposing corrupt schemes and disarming propaganda machinery.
+                        His focus on politics, economics, AI, and corruption is fueled by a desire to shine a light on critical issues that impact our world today. Isaac's commitment to uncovering the truth is evident in his reporting, which delves deep into complex issues to provide readers with a comprehensive understanding of events shaping our world.
+                        Isaac's unwavering dedication to ethical standards ensures that The Incident's reporting is entirely independent and unbiased, making it a reliable source of information for readers. Join Isaac on this journey of uncovering the truth and making sense of the complex issues affecting our world today."
+      email:          isaacjosephhorton@gmail.com
+      twitter:        https://twitter.com/kre8t_
 
     jane:
       name:           Jane
@@ -34,7 +44,7 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
- 
+
 # Defaults
 defaults:
 
@@ -43,15 +53,15 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: isaac
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
