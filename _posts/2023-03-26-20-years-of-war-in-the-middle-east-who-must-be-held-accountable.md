@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20 Years of War in the Middle East: Who Must Be Held Accountable?'
-author: 'isaac'
+author: isaac
 categories:
 - propaganda
 - war
@@ -11,11 +11,9 @@ tags:
 - war
 
 ---
-In the aftermath of 20 years of military debacles in the Middle East, the question remains: who must be held accountable for the crimes committed? The answer, according to former New York Times Middle East Bureau Chief, Chris Hedges, is the politicians and shills in the media who orchestrated the wars and who seek a world dominated by U.S. power.
+In the aftermath of 20 years of military debacles in the Middle East, the question remains: who must be held accountable for the crimes committed? The answer is the politicians and shills in the media who orchestrated the wars and who seek a world dominated by U.S. power.
 
-My contact spent seven years in the Middle East, had extensive knowledge and credibility to speak against a “preemptive” war against Iraq. While Arabists in official circles were muzzled, he had the opportunity to speak at The State Department, The United States Military Academy at West Point, and to senior Marine Corps officers scheduled to be deployed to Kuwait to prepare for the invasion.
-
-Despite the controversy, he believed that the architects of these debacles have never been held accountable and remain ensconced in power. They continue to promote permanent war, including the ongoing proxy war in Ukraine against Russia, as well as a future war against China.
+The architects of these debacles have never been held accountable and remain ensconced in power. They continue to promote permanent war, including the ongoing proxy war in Ukraine against Russia, as well as a future war against China.
 
 ## The Big Lie
 
@@ -33,4 +31,12 @@ Many of these same pundits are pushing further escalation of the war in Ukraine,
 
 Packer views war as a purgative, a force that will jolt a country, including the U.S., back to the core moral values he supposedly found amongst American volunteers in Ukraine.
 
-“I didn’t know what these men thought of American politics, and I didn’t want to know,” he writes of two U.S. volunteers. “Back home we might have argued; we might have detested each other. Here, we were joined by a common belief in what the Ukrainians were trying to do and admiration for how they were doing it. Here, all the complex infighting and chronic disappointments and sheer lethargy of any democratic society, but especially ours, dissolved, and the essential things — to be free and live with dignity — became clear. It almost seemed as if the U.S. would have
+“I didn’t know what these men thought of American politics, and I didn’t want to know,” he writes of two U.S. volunteers. “Back home we might have argued; we might have detested each other. Here, we were joined by a common belief in what the Ukrainians were trying to do and admiration for how they were doing it. Here, all the complex infighting and chronic disappointments and sheer lethargy of any democratic society, but especially ours, dissolved, and the essential things — to be free and live with dignity — became clear.
+
+This failure of accountability is a dangerous precedent, as it reinforces the notion that those in power can act with impunity and without regard for the consequences of their actions. As long as the architects of these debacles are able to remain in power, the threat of future disastrous military interventions will continue to loom over us.
+
+The only way to prevent future catastrophes is to hold those responsible for the past failures accountable. This means investigating and punishing those who lied, fabricated evidence, and misled the public into supporting these wars. It also means taking steps to dismantle the structures of power that enabled these individuals to operate with impunity.
+
+## Failure to Hold Those Responsible Accountable
+
+We must also recognize the role that the media played in promoting these wars. Rather than being an independent watchdog, the media became a cheerleader for war, amplifying the lies and discrediting those who opposed the war. This failure of the media highlights the importance of a free and independent press in holding those in power accountable.
