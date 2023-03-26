@@ -22,19 +22,19 @@ plugins:
 authors:
     isaac:
       name:           Isaac Horton
-      site:           https://www.wowthemes.net
+      site:           https://kre8t.github.io/
       avatar:         /assets/images/isaac.jpg
       bio:            "Isaac Horton is the passionate writer and creator of The Incident. He has a strong dedication to free speech, exposing corruption, and investigative journalism. With a deep desire to uncover the truth behind the workings of the powerful, Isaac is committed to exposing corrupt schemes and disarming propaganda machinery. His focus on politics, economics, AI, and corruption is fueled by a desire to shine a light on critical issues that impact our world today. Isaac's commitment to uncovering the truth is evident in his reporting, which delves deep into complex issues to provide readers with a comprehensive understanding of events shaping our world. Isaac's unwavering dedication to ethical standards ensures that The Incident's reporting is entirely independent and unbiased, making it a reliable source of information for readers."
       email:          isaacjosephhorton@gmail.com
       twitter:        https://twitter.com/kre8t_
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+    harley:
+      name:           harley
+      site:           https://kre8t.github.io/
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          harleysavij@gmail.com
+      twitter:        https://twitter.com/harleysavij
 
 # Defaults
 defaults:
