@@ -11,7 +11,8 @@ At The Incident, we value our readers and their right to know the truth. That's 
 We invite you to join us on this journey of uncovering the truth and making sense of the complex issues affecting our world today. Stay informed with The Incident.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: ''
+url: "https://theincident.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

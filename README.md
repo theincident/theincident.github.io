@@ -1,51 +1,14 @@
-# Jekyll Theme - Mundana by WowThemes.net
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
-
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
-
-### Documentation
-
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
-
-### Contribute to Mundana repository
-
-1. In the top-right corner of this page, click **Fork**.
-
-2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
-
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
-
-3. **Create a branch**: 
-
-   `git checkout -b <my-new-feature-or-fix>`
-
-4. **Make necessary changes and commit those changes**:
-
-   `git add .`
-
-   `git commit -m "new feature or fix"`
-
-5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
-
-   `git push origin <add-your-branch-name>`
-
-6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
-
-That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+# Welcome to the Incident's GitHub page
 
 
-### Copyright
+### Contribute to the Incident
 
-Copyright (C) 2019 WowThemes.net.
+Welcome to The Incident, an independent journalism news website dedicated to shedding light on the critical issues impacting politics, economics, AI, and corruption. Our team of experienced journalists is committed to uncovering the truth behind the workings of the media, corporations, and the Deep State, to bring you unfiltered, unbiased, and honest news.
 
-Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+We believe that in today's world, where misinformation and propaganda are rampant, it's crucial to provide our readers with accurate and factual information. That's why we are dedicated to reporting on stories that the mainstream media ignores or overlooks.
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Our articles cover a wide range of topics, including the latest political developments, economic policies, advances in AI, and corruption in the corporate world. We delve deep into these issues to provide you with a comprehensive understanding of the events shaping our world.
 
-### Live Demo
+At The Incident, we value our readers and their right to know the truth. That's why we follow strict ethical standards, and our reporting is entirely independent of any political or corporate influence.
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+We invite you to join us on this journey of uncovering the truth and making sense of the complex issues affecting our world today. Stay informed with The Incident.
