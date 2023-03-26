@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+title: Welcome to The Incident
+categories:
+- Jekyll
+image: assets/images/uploads/flowereye.jpg
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to The Incident, a platform committed to uncovering the truth, dismantling corruption, and empowering independent journalists to make their mark in the world of fearless journalism. We are dedicated to shining a light on critical issues that impact our world today, including politics, economics, AI, and corruption.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Our team of experienced journalists is committed to providing our readers with accurate and factual information. At The Incident, we follow strict ethical standards, and our reporting is entirely independent of any political or corporate influence. We are the opposite of mainstream media, bringing journalistic integrity that is untouchable by current media representatives.
 
-Jekyll also offers powerful support for code snippets:
+One of our main goals at The Incident is to discover who is behind the recent attack on the Nordstream 2 pipeline. This pipeline plays a crucial role in Europe's energy supply, and we are committed to uncovering the truth behind this attack, regardless of political or corporate influence.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+We also believe in the importance of freeing Julian Assange and Edward Snowden. These two whistleblowers have sacrificed their freedom to expose the corrupt workings of governments and corporations, and we must do everything in our power to support their cause.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Furthermore, we believe that wars are often corrupt and motivated by greed and power. It is essential to build systems of unity to counter the force of aggressive capitalism and inwardly focused propaganda. By coming together and working towards a common goal, we can create a more just and equitable society for all.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+At The Incident, we provide writing and research opportunities for inspired independent journalists who share our commitment to uncovering the truth. We invite you to join our team and help us make a difference in the world of journalism.
+
+Thank you for joining us on this journey towards honest and fearless journalism. Together, we can create a more informed and empowered society.
