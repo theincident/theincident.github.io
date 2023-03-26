@@ -1,0 +1,20 @@
+---
+label: Page template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: field_group
+  name: pagination
+  label: pagination
+  fields:
+  - type: boolean
+    name: enabled
+    label: enabled
+- type: text
+  name: description
+  label: description
