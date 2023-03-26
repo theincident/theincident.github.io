@@ -7,7 +7,7 @@ tags:
 layout: post
 author: isaac
 title: 'The Truth About Gain of Function Research: Exposing Anthony Fauci''s Role
-  in the Controversy'
+  in the Coverup'
 categories:
 - Technology
 - Science
@@ -18,7 +18,7 @@ image: "/assets/img/uploads/gettyimages-1237662446-scaled.jpeg"
 
 Gain of function research is a type of scientific study where researchers manipulate microorganisms such as viruses and bacteria to make them stronger and more infectious. This type of research is highly controversial because it has the potential to create pandemics by accident or intention. The research is often conducted in high-security laboratories, and the risk of accidental release is always present.
 
-## What is the Fauci Files Controversy?
+## What is the Fauci Files Coverup?
 
 Recently, the Fauci Files controversy has been making headlines. The controversy centers around Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases (NIAID). It has been alleged that Dr. Fauci was involved in funding gain of function research in Wuhan, China, which is believed to be the source of the COVID-19 pandemic and at this point, we all know he did it. His actions are like the military anytime they use false flag operations to incite war. That makes sense since he was working closely with the military for most of his professional career. There is not really a controversy here. We know he did off-shore the research. We know he lied about it in Congress. We know he has been responsible for funding research in the days of AIDS that some alleged to be "man-made" an early term for the result of "gain of function" research. Does it really stretch the imagination to think that this guy is just trying to cover his ass because his actions caused the transfer of billions in wealth to 1% of wealthiest people in the world at the same time that something about as dangerous as the flu had been militarized?
 
