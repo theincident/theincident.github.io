@@ -15,10 +15,6 @@ image: "/assets/img/uploads/8c959c596302445cc2be630b55b3473a.jpeg"
 ---
 "1984" is a timeless novel that offers a poignant warning about the dangers of totalitarianism and the importance of preserving individual liberties. While the novel was written in the mid-20th century, its relevance is extremely pertinent today.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0932c2d9-4340-4973-b0bb-6e4ca67cdb5b_481x640.jpeg =481x640)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0932c2d9-4340-4973-b0bb-6e4ca67cdb5b_481x640.jpeg)
-
-Thanks for reading Brave Truth! Subscribe for free to receive new posts and support my work.
-
 > ## _In a time of deceit, telling the truth is a revolutionary act._
 >
 > _George Orwell_
@@ -45,17 +41,9 @@ There is ample evidence to suggest that governments around the world use propaga
 
 One of the most well-known examples of government propaganda is the case of the Gulf War in 1991. The US government, under President George H.W. Bush, used a number of tactics to manufacture consent for the war, including spreading false information about Iraq's military capabilities and involvement in the 9/11 attacks. The government also used sophisticated PR campaigns to shape public opinion in favor of the war, including creating fake news stories, planting stories in the media, and manipulating public opinion through advertising.
 
-[![](https://images.unsplash.com/photo-1645786604529-ac1db872c1ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwzMHx8dHdpbiUyMHRvd2Vyc3xlbnwwfHx8fDE2NzgzMjAxNzI&ixlib=rb-4.0.3&q=80&w=1080 =1080x720)](https://images.unsplash.com/photo-1645786604529-ac1db872c1ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwzMHx8dHdpbiUyMHRvd2Vyc3xlbnwwfHx8fDE2NzgzMjAxNzI&ixlib=rb-4.0.3&q=80&w=1080)
-
-Photo by [Documerica](https://unsplash.com/@documerica) on [Unsplash](https://unsplash.com)
-
 More recently, we have seen similar tactics being used in the run-up to the war in Iraq in 2003. The US government, under President George W. Bush, used a number of false claims about Iraq's weapons of mass destruction to justify the war, even though there was little evidence to support these claims. The government also used sophisticated PR campaigns to manipulate public opinion, including the use of embedded journalists, who were given access to military operations in exchange for reporting favorable stories about the war.
 
 In addition to propaganda, false flag operations have also been used by governments to manipulate public opinion and manufacture consent. False flag operations involve the government carrying out an attack or other action and blaming it on a different group or individual in order to justify a particular policy or action. One of the most famous examples of this is the Gulf of Tonkin incident in 1964, in which the US government claimed that North Vietnamese naval vessels had attacked US ships in the Gulf of Tonkin. This claim was later found to be false, but it was used to justify the escalation of the Vietnam War.
-
-[![grayscale photo of men standing near cannon](https://images.unsplash.com/photo-1562400179-cc68926e2191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwyfHx2aWV0bmFtJTIwd2FyfGVufDB8fHx8MTY3ODI5NTE3Nw&ixlib=rb-4.0.3&q=80&w=1080 "grayscale photo of men standing near cannon" =1080x853)](https://images.unsplash.com/photo-1562400179-cc68926e2191?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwyfHx2aWV0bmFtJTIwd2FyfGVufDB8fHx8MTY3ODI5NTE3Nw&ixlib=rb-4.0.3&q=80&w=1080)
-
-Photo by [The New York Public Library](https://unsplash.com/@nypl) on [Unsplash](https://unsplash.com)
 
 More recently, there have been a number of allegations that the US government has carried out false flag operations in order to justify its military interventions in the Middle East. For example, there are persistent rumors that the 9/11 attacks were carried out or allowed to happen by the US government in order to justify the wars in Afghanistan and Iraq.
 
@@ -92,8 +80,6 @@ Orwell died on January 21, 1950, at the age of 46, from complications related to
 The concept of "doublethink" in George Orwell's novel 1984 refers to the ability to hold two contradictory beliefs at the same time and believe them both to be true. In the book, the ruling party uses doublethink as a tool to control the minds of the people and maintain their power. This is achieved by _manipulating language_ and reality to create a distorted view of the world that supports the party's interests.
 
 In many ways, the concept of doublethink in 1984 can be seen as a precursor to the modern phenomenon of disinformation. Disinformation is the spread of false or misleading information with the intent of deceiving or manipulating people. Disinformation is often used as a tool of propaganda, and like doublethink, it relies on the manipulation of language and reality to shape people's beliefs and perceptions.
-
-[![six fighter jets](https://images.unsplash.com/photo-1500252185289-40ca85eb23a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxfHx3YXJ8ZW58MHx8fHwxNjc4MzIwOTg2&ixlib=rb-4.0.3&q=80&w=1080 "six fighter jets" =1080x720)](https://images.unsplash.com/photo-1500252185289-40ca85eb23a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzMDAzMzh8MHwxfHNlYXJjaHwxfHx3YXJ8ZW58MHx8fHwxNjc4MzIwOTg2&ixlib=rb-4.0.3&q=80&w=1080)
 
 One of the key similarities between doublethink and disinformation is that they both involve the distortion of truth. In 1984, the ruling party uses doublethink to convince the people that war is peace, freedom is slavery, and ignorance is strength. Similarly, disinformation campaigns often rely on spreading false information or manipulating real information to support a particular agenda or worldview.
 
