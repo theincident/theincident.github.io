@@ -3,14 +3,8 @@ label: Blog Post
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-- type: text
   name: title
   label: title
-- type: text
-  name: author
-  label: author
 - type: list
   name: categories
   label: categories
@@ -20,3 +14,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/2023-03-26-20-years-of-war-in-the-middle-east-who-must-be-held-accountable.md
