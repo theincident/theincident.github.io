@@ -13,9 +13,9 @@ tags:
 ---
 In the aftermath of 20 years of military debacles in the Middle East, the question remains: who must be held accountable for the crimes committed? The answer, according to former New York Times Middle East Bureau Chief, Chris Hedges, is the politicians and shills in the media who orchestrated the wars and who seek a world dominated by U.S. power.
 
-Hedges, who had spent seven years in the Middle East, had extensive knowledge and credibility to speak against a “preemptive” war against Iraq. While Arabists in official circles were muzzled, Hedges had the opportunity to speak at The State Department, The United States Military Academy at West Point, and to senior Marine Corps officers scheduled to be deployed to Kuwait to prepare for the invasion.
+My contact spent seven years in the Middle East, had extensive knowledge and credibility to speak against a “preemptive” war against Iraq. While Arabists in official circles were muzzled, he had the opportunity to speak at The State Department, The United States Military Academy at West Point, and to senior Marine Corps officers scheduled to be deployed to Kuwait to prepare for the invasion.
 
-Despite the controversy, Hedges believed that the architects of these debacles have never been held accountable and remain ensconced in power. They continue to promote permanent war, including the ongoing proxy war in Ukraine against Russia, as well as a future war against China.
+Despite the controversy, he believed that the architects of these debacles have never been held accountable and remain ensconced in power. They continue to promote permanent war, including the ongoing proxy war in Ukraine against Russia, as well as a future war against China.
 
 ## The Big Lie
 
