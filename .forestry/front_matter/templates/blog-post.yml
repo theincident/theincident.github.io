@@ -20,3 +20,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- _posts/20-years-of-war-in-the-middle-east-who-must-be-held-accountable.md
