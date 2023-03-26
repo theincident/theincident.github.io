@@ -11,8 +11,9 @@ fields:
 - type: file
   name: image
   label: image
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: tags
 pages:
 - _posts/2023-03-26-20-years-of-war-in-the-middle-east-who-must-be-held-accountable.md
