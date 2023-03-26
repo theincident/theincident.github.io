@@ -2,7 +2,7 @@
 tags:
 - military ai
 - surveillance
-- sticky
+- featured
 layout: post
 author: isaac
 title: Military is Using AI to Create Propaganda Targeted on US Citizens
