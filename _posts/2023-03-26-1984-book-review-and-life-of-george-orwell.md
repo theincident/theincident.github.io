@@ -13,7 +13,7 @@ categories:
 image: "/assets/img/uploads/8c959c596302445cc2be630b55b3473a.jpeg"
 
 ---
-"1984" is a timeless novel that offers a poignant warning about the dangers of totalitarianism and the importance of preserving individual liberties. While the novel was written in the mid-20th century, its relevance is extremely pertinent today.
+Reading is something that separates the intelligent from those less-inclined to be. "1984" is a timeless novel that offers a poignant warning about the dangers of totalitarianism and the importance of preserving individual liberties. While the novel was written in the mid-20th century, its relevance is extremely pertinent today.
 
 > ## _In a time of deceit, telling the truth is a revolutionary act._
 >
