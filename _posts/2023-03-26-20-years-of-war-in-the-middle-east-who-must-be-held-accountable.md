@@ -2,10 +2,11 @@
 layout: ''
 title: '20 Years of War in the Middle East: Who Must Be Held Accountable?'
 author: ''
-categories: []
+categories:
+- propaganda
+- war
 image: "/assets/img/uploads/architects.jpg"
 tags:
-- Social Media
 - Ukraine
 - war
 
@@ -16,15 +17,15 @@ Hedges, who had spent seven years in the Middle East, had extensive knowledge an
 
 Despite the controversy, Hedges believed that the architects of these debacles have never been held accountable and remain ensconced in power. They continue to promote permanent war, including the ongoing proxy war in Ukraine against Russia, as well as a future war against China.
 
-The Big Lie
+## The Big Lie
 
 The politicians who lied to us — George W. Bush, Dick Cheney, Condoleezza Rice, Hillary Clinton, and Joe Biden to name a few — extinguished millions of lives, including thousands of American lives, and left Iraq along with Afghanistan, Syria, Somalia, Libya, and Yemen in chaos. They exaggerated or fabricated conclusions from intelligence reports to mislead the public. The big lie is taken from the playbook of totalitarian regimes.
 
-The Cheerleaders in the Media
+### The Cheerleaders in the Media
 
 The cheerleaders in the media for war — Thomas Friedman, David Remnick, Richard Cohen, George Packer, William Kristol, Peter Beinart, Bill Keller, Robert Kaplan, Anne Applebaum, Nicholas Kristof, Jonathan Chait, Fareed Zakaria, David Frum, Jeffrey Goldberg, David Brooks, and Michael Ignatieff — were used to amplify the lies and discredit the handful of us, including Michael Moore, Robert Scheer, and Phil Donahue, who opposed the war. These courtiers were often motivated more by careerism than idealism. They did not lose their megaphones or lucrative speaking fees and book contracts once the lies were exposed, as if their crazed diatribes did not matter. They served the centers of power and were rewarded for it.
 
-Pushing Further Escalation
+### Pushing Further Escalation
 
 Many of these same pundits are pushing further escalation of the war in Ukraine, although most know as little about Ukraine or NATO’s provocative and unnecessary expansion to the borders of Russia as they did about Iraq.
 
