@@ -1,10 +1,10 @@
 ---
 tags:
-- sticky
 - zen
 - consciousness
 - Alan Watts
 - Joe Rogan
+- featured
 layout: post
 author: isaac
 title: Alan Watts vs. Joe Rogan
