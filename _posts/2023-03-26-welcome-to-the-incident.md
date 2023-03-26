@@ -5,12 +5,10 @@ tags:
 - corruption
 - war
 - nordstream
-- propaganda
 title: Welcome to the Incident
-author: 'isaac'
+author: isaac
 categories:
 - announcements
-- propaganda
 image: "/assets/img/uploads/flowereye.jpg"
 
 ---
