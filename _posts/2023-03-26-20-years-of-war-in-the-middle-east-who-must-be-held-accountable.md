@@ -1,7 +1,7 @@
 ---
-layout: ''
+layout: post
 title: '20 Years of War in the Middle East: Who Must Be Held Accountable?'
-author: ''
+author: 'isaac'
 categories:
 - propaganda
 - war

@@ -1,4 +1,5 @@
 ---
+layout: post
 tags:
 - journalism
 - corruption
@@ -6,6 +7,7 @@ tags:
 - nordstream
 - propaganda
 title: Welcome to the Incident
+author: 'isaac'
 categories:
 - announcements
 - propaganda
