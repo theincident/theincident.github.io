@@ -104,7 +104,7 @@ description: "Uncovering the truth, dismantling corruption."
 
         <!-- fourth latest post -->
         {%- assign fourth_post = site.posts[3] -%}
-        <div class="mb-3 d-flex align-items-center">
+        <div class="row mb-3">
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
@@ -112,7 +112,7 @@ description: "Uncovering the truth, dismantling corruption."
                 </a>
                 </div>
                 {% endif %}
-                <div>
+                <div class="col-md-8 pt-md-0 card-body">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h2>
