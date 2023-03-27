@@ -50,7 +50,7 @@ description: "Uncovering the truth, dismantling corruption."
 
         <!-- second latest post -->
         {%- assign second_post = site.posts[1] -%}
-        <div class="row mb-3 d-md-flex align-items-center">
+        <div class="row mb-3">
                 {% if second_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{second_post.url}}">
@@ -58,7 +58,7 @@ description: "Uncovering the truth, dismantling corruption."
                 </a>
                 </div>
                 {% endif %}
-                <div class="col-md-8 card-body">
+                <div class="col-md-8 pt-md-0 card-body">
                     <h2 class="mb-2 h6 font-weight-bold">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h2>
