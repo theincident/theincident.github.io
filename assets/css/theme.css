@@ -26,6 +26,9 @@ img {
 	margin-left:-50vw;
 	left:50%;
 }
+h1, h2, h3, h4, h5 {
+	font-family:Georgia,Times,"Times New Roman",serif;
+}
 a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
