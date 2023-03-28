@@ -60,10 +60,14 @@
     </div>
 
     <!-- Content -->
-    <main role="main" class="site-content">
-        {{ content }}
-    </main>
-
+    <div class="row">
+      <main role="main" class="site-content col-md-7">
+          {{ content }}
+      </main>
+      <div class="col-md-5">
+          {% include sidebar-default.html %}
+      </div>
+    </div>
 {% include footer-nav.html %}
     <!-- Scripts: popper, bootstrap, theme, lunr -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
