@@ -248,6 +248,7 @@ a.text-dark:hover {
 }
 .navbar-light .navbar-toggler {
 	color:rgba(0,0,0,0.5);
+	border: 0;
 }
 .navbar-light .navbar-toggler-icon {
 	background-image:url("/assets/img/menu-icon-black.svg");
