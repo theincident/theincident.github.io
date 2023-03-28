@@ -88,13 +88,13 @@ layout: default
 					</div>
 					<div class="col-md-6">
 						<div class="row">
-                            <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" novalidate>
+                            <form action="{{site.mailchimp-list}}" method="POST" name="mc-embedded-subscribe-form" class="wj-contact-form validate w-100" target="_blank" data-type="subscription">
                             <div class="mc-field-group">
 
 								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
 
 
-								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
+								<button type="submit" value="Subscribe" name="subscribe" form="sib-form" type="submit" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
 
                             </div>
                             </form>
