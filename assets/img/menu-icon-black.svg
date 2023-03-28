@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.4"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       spacingx="1.0583333"
+       spacingy="1.0583333" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g278"
+       transform="translate(0.13229091,0.13229139)">
+      <rect
+         style="fill:#000000;stroke-width:0.264583;stroke-dasharray:none"
+         id="rect115"
+         width="9.260417"
+         height="9.260417"
+         x="1.5875008"
+         y="1.8520832"
+         inkscape:label="rect115"
+         ry="2.5135419" />
+      <rect
+         style="fill:#000000;stroke-width:0.264583;stroke-dasharray:none"
+         id="rect115-7"
+         width="9.260417"
+         height="9.260417"
+         x="1.5875008"
+         y="14.022916"
+         inkscape:label="rect115"
+         ry="2.5135419" />
+      <rect
+         style="fill:#000000;stroke-width:0.264583;stroke-dasharray:none"
+         id="rect115-9-1"
+         width="9.260417"
+         height="9.260417"
+         x="13.330303"
+         y="-13.423375"
+         inkscape:label="rect115"
+         ry="2.5135419"
+         transform="rotate(45)" />
+      <rect
+         style="fill:#000000;stroke-width:0.264583;stroke-dasharray:none"
+         id="rect115-7-4"
+         width="9.260417"
+         height="9.260417"
+         x="14.287499"
+         y="14.022916"
+         inkscape:label="rect115"
+         ry="2.5135419" />
+    </g>
+  </g>
+</svg>
