@@ -699,7 +699,7 @@ article:first-letter {
 article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
 	margin-top:2rem;
-	font-weight:600;
+
 }
 .alertbar {
 	box-shadow:0 -3px 10px 0 rgba(0,0,0,.0785);
