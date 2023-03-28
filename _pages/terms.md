@@ -1,5 +1,5 @@
 ---
-title: "Terms and Conditions""
+title: "Terms and Conditions"
 permalink: "/terms.html"
 ---
 
