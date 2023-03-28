@@ -5,8 +5,8 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: "https://theincident.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: 'theincident'
+email: 'isaacjosephhorton@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
