@@ -253,8 +253,8 @@ a.text-dark:hover {
 }
 .navbar-light .navbar-toggler-icon {
 	background-image:url("/assets/img/menu-icon-black.svg");
-	width: 32px;
-	height: 32px;
+	width: 18px;
+	height: 18px;
 }
 .navbar-light .navbar-text {
 	color:rgba(0,0,0,0.5);
