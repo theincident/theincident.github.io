@@ -3,7 +3,6 @@ title: "About"
 layout: page
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
-comments: true
 ---
 # Made with love and respect for the Constitution, Free Speech and the voice of the unspoken.
 

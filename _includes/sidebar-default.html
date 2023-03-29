@@ -1,21 +1,10 @@
 <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
-    <ol class="list-featured">				
-        {% for post in site.tags.featured %}                
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
-                </h6>
-                <span class="d-block text-muted">
-                    In <span class="catlist">
-                    {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                    {% endfor %}
-                    </span>
-                </span>
-            </span>
-            </li>                
-        {% endfor %}   
-    </ol>
-</div> 
+<div class="jumbotron">
+  <blockquote class="blockquote" style="font-family:Georgia, serif;">
+One of the saddest lessons of history is this: If we've been bamboozled long enough, we tend to reject any evidence of the bamboozle. We're no longer interested in finding out the truth.
+The bamboozle has captured us.
+<br>
+<footer class="blockquote-footer"><span class="font-italic">Carl Sagan</span></footer>
+</blockquote>
+</div>
+</div>
