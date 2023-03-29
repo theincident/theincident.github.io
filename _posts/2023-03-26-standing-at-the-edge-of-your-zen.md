@@ -14,7 +14,7 @@ categories:
 image: "/assets/img/uploads/isaac-horton-portfolio-2-14.jpg"
 
 ---
-## What does it mean to be human?
+What does it mean to be human?
 
 As human beings, we are constantly seeking meaning in our lives. We look to religion, philosophy, and spirituality for guidance, hoping to find answers to the big questions that plague us. What is the purpose of life? What is the nature of reality? What is the nature of suffering?
 

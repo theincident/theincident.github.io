@@ -12,7 +12,7 @@ categories:
 image: "/assets/img/uploads/laptop.jpeg"
 
 ---
-# The Dark Side of AI: How Military Spying on US Citizens Threatens Our Privacy and Security
+The Dark Side of AI: How Military Spying on US Citizens Threatens Our Privacy and Security
 
 The rise of artificial intelligence (AI) has brought about many advancements in technology, but it has also raised concerns about its potential to be used for malicious purposes. One such concern is the use of AI by the military to spy on US citizens, which poses a serious threat to our privacy and security. With the increasing use of surveillance technologies, such as drones and facial recognition software, the line between protection and invasion of privacy is becoming increasingly blurred. While the military argues that such measures are necessary for national security, the potential for abuse is undeniable. In this article, we will explore the dark side of AI and the implications it has for our personal freedoms and civil liberties. Join us as we delve into this controversial topic and uncover the ways in which military spying on US citizens threatens our privacy and security.
 

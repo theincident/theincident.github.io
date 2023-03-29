@@ -16,7 +16,7 @@ categories:
 image: "/assets/img/uploads/deon-black-cuxcpvm04ms-unsplash.jpeg"
 
 ---
-# Protecting the Future: Why Addressing Endocrine Disruptors is Critical to Male Reproductive Health Crisis
+Protecting the Future: Why Addressing Endocrine Disruptors is Critical to Male Reproductive Health Crisis
 
 As a society, we are exposed to a vast array of chemicals on a daily basis. These chemicals are found in everything from the food we eat to the products we use to clean our homes. While many of these chemicals are considered safe, others have been linked to a range of health issues, including endocrine disruption. Endocrine disruptors are chemicals that interfere with the normal functioning of the endocrine system, which regulates hormones in the body. In this article, I will explore the impact of endocrine disruptors on male reproductive health and why it is critical to address this issue.
 
