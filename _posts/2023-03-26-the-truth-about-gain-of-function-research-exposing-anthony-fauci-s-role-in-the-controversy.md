@@ -6,15 +6,15 @@ tags:
 - mask research
 layout: post
 author: isaac
-title: 'The Truth About Gain of Function Research: Exposing Anthony Fauci''s Role
-  in the Coverup'
+title: The Truth About Gain of Function Research
 categories:
 - Technology
 - Science
 image: "/assets/img/uploads/gettyimages-1237662446-scaled.jpeg"
 
 ---
-Introduction to Gain of Function Research.
+Many friends have asked me about gain of function research and whether or not it was a danger to humanity. Now that all this new information has come about with Anthony Fauci, I thought it would be a good time to look into gain of function research and compile my own set of evidence with an open mind like one would have as a detective or scientist.
+
 Gain of function research is a type of scientific study where researchers manipulate microorganisms such as viruses and bacteria to make them stronger and more infectious. This type of research is highly controversial because it has the potential to create pandemics by accident or intention. The research is often conducted in high-security laboratories, and the risk of accidental release is always present.
 
 ## What is the Fauci Files Coverup?
