@@ -30,6 +30,12 @@ h1, h2, h3, h4, h5, h6 {
 	font-family:Georgia,Times,"Times New Roman",serif;
 	font-weight:normal;
 }
+input {
+	padding:10px;
+	border-color:#dddddd;
+	border-top-color:#dddddd;
+	border-left-color:#dddddd;
+}
 a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
