@@ -13,7 +13,7 @@ categories:
 image: "/assets/img/uploads/rocks-on-mountain.jpg"
 
 ---
-## Introduction to Zen and Consciousness
+Introduction to Zen and Consciousness
 
 Zen is a school of Mahayana Buddhism that emerged in China during the Tang Dynasty. It emphasizes the importance of meditation and intuition in achieving enlightenment. Consciousness, on the other hand, refers to the state of being aware of one's surroundings, thoughts, and emotions. In the quest for enlightenment, the two concepts are closely intertwined.
 
