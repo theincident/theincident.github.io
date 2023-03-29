@@ -22,6 +22,8 @@ Access to our exclusive member-only forum for discussions with our team and othe
 All Premium Subscription features
 Personalized support from our team for writing and research
 Opportunities for collaboration with our team on investigative journalism projects
+
+
 At The Incident, we are committed to providing our subscribers with accurate and factual information, free from any bias or propaganda. We believe in journalistic integrity and strive to empower our subscribers with the information they need to make informed decisions.
 
 By subscribing to The Incident, you are supporting independent journalism and contributing to the uncovering of the truth. We thank you for your support and look forward to providing you with the best possible experience.
