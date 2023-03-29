@@ -141,7 +141,7 @@ description: "Uncovering the truth, dismantling corruption."
         <div class="row justify-content-between">
             <div class="col-md-6 py-6 px-4 px-md-6 align-self-center">
                 <h2 class="mb-3">{{post.title}}</h2>
-                <p class="mb-3 lead">
+                <p class="mb-3">
                     {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
