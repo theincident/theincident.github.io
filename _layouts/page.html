@@ -2,20 +2,12 @@
 layout: default
 ---
 
-<div class="flex-grow-1 d-flex flex-column">
-    <div class="container-fluid">
-
+<div>
 <h3 class="spanborder"><span>{{page.title}}</span></h3>
-    <div class="row">
-<div  class="col-lg-8 pt-6 pr-lg-3">
+
 {{ content }}
 <!-- Comments -->
 {% if page.comments == true %}
 {% include comments.html %}
 {% endif %}
 </div>
-<div class="col-lg-4 pl-lg-3">
-    {% include sidebar-default.html %}
-</div>
-</div>
-</div></div>
