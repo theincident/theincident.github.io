@@ -26,6 +26,12 @@ img {
 	margin-left:-50vw;
 	left:50%;
 }
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
 h1, h2, h3, h4, h5, h6 {
 	font-family:Georgia,Times,"Times New Roman",serif;
 	font-weight:normal;
