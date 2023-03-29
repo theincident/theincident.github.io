@@ -3,7 +3,6 @@ title: "Volunteer With the Incident"
 permalink: "/volunteer.html"
 ---
 
-## Volunteer with The Incident
 At The Incident, we rely on the support of our volunteers to continue our mission of uncovering the truth and dismantling corruption. We welcome volunteers from all backgrounds who are passionate about independent journalism and committed to our values of free speech, transparency, and integrity.
 
 ## Why Volunteer with The Incident?
