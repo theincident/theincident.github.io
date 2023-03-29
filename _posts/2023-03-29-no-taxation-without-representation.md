@@ -3,6 +3,7 @@ tags:
 - taxes
 - politics
 - constitution
+- featured
 layout: post
 author: isaac
 title: No Taxation Without Representation?
