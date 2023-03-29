@@ -5,12 +5,13 @@ layout: default
 <div class="row">
   <div class="col-lg-8 pt-6 pr-lg-3">
 <h3 class="spanborder"><span>{{page.title}}</span></h3>
-
+<div class="pl-md-0 ml-md-0 mr-md-6 mr-md-0 pl-lg-6 ml-lg-6">
 {{ content }}
 <!-- Comments -->
 {% if page.comments == true %}
 {% include comments.html %}
 {% endif %}
+</div>
 </div>
 <div class="col-lg-4 pl-lg-3">
     {% include sidebar-default.html %}
