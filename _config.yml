@@ -2,7 +2,7 @@
 name: 'The Incident'
 description: 'Welcome to The Incident, an independent journalism news website dedicated to shedding light on the critical issues impacting politics, economics, AI, and corruption.'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicon-96.png'
 baseurl: ''
 url: "https://theincident.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 disqus: 'theincident'
