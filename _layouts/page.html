@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div>
+<div class="row">
+  <div class="col-lg-8 pt-6 pr-lg-3">
 <h3 class="spanborder"><span>{{page.title}}</span></h3>
 
 {{ content }}
@@ -10,4 +11,8 @@ layout: default
 {% if page.comments == true %}
 {% include comments.html %}
 {% endif %}
+</div>
+<div class="col-lg-4 pl-lg-3">
+    {% include sidebar-default.html %}
+</div>
 </div>
