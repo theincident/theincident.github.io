@@ -1,6 +1,6 @@
 ---
 title: "Donate to the Incident"
-permalink: "/donate.html"
+permalink: "/premium.html"
 ---
 
 # Donate to Support Independent Journalism at The Incident
