@@ -34,7 +34,8 @@
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
-
+  <div class="flex-grow-1 d-flex flex-column">
+      <div class="container-fluid">
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container px-sm-0">
@@ -50,7 +51,7 @@
                 {% include search-lunr.html %}
             </ul>
         </div>
-    </div>
+    </div>  </div>
     </nav>
 
     <!-- Search Results -->
@@ -59,7 +60,8 @@
     </div>
 
     <!-- Content -->
-    <div class="container px-sm-0">
+    <div class="flex-grow-1 d-flex flex-column">
+        <div class="container-fluid">
 
     <div class="row px-0">
       <main role="main" class="col-lg-8 pt-6 pr-lg-3">
@@ -69,7 +71,7 @@
           {% include sidebar-default.html %}
       </div>
     </div>
-
+  </div>
 {% include footer-nav.html %}
 </div>
     <!-- Scripts: popper, bootstrap, theme, lunr -->
