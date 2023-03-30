@@ -6,7 +6,7 @@ tags:
 - featured
 layout: post
 author: isaac
-title: No Taxation Without Representation?
+title: Do We Really Need Taxes?
 categories:
 - economics
 image: "/assets/img/uploads/yet-another-source-of-inequality-key.png"
