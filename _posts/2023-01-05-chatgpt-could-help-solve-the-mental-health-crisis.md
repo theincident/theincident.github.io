@@ -2,6 +2,7 @@
 tags:
 - future
 - free speech
+- featured
 layout: post
 author: isaac
 title: ChatGPT Could Help Solve The Mental Health Crisis
