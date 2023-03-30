@@ -6,7 +6,7 @@ permalink: "/pricing.html"
 
 Thank you for considering a subscription to The Incident, a platform committed to uncovering the truth and dismantling corruption. We offer three tiers of subscriptions to meet your needs, each with unique features and benefits.
 
-{% include pricing-tables.html %}
+{% include price-cards.html %}
 
 At The Incident, we are committed to providing our subscribers with accurate and factual information, free from any bias or propaganda. We believe in journalistic integrity and strive to empower our subscribers with the information they need to make informed decisions.
 
