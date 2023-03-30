@@ -5,6 +5,8 @@
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
+	font-family:'Lora', Times New Roman, serif;
+	font-size:1.1rem;
 }
 .site-content {
 	margin-top:30px;
