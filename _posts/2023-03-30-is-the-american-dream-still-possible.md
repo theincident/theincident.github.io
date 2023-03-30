@@ -36,7 +36,7 @@ Of course, there are many challenges to creating such a system. We will need to 
 
 But with the right approach and the right tools, we can build an economic system that is more secure, more beneficial to society as a whole, and has the end result of actually lifting more people out of poverty and into prosperity. And that is a goal worth striving for and fundamentally is the basis for "The American Dream".
 
-"Look..., up in the sky!.. its a bird!.. Its a plane.. It's Superman?"
+### "Look..., up in the sky!.. its a bird!.. Its a plane.. It's Superman?"
 
 Throughout history, there have been countless individuals who have envisioned a better world and dedicated their lives to realizing this vision. From utopian socialists to revolutionary thinkers, many have sought to build a society that is more just, more equitable, and more prosperous for all.
 
@@ -45,6 +45,8 @@ One such thinker was Friedrich Nietzsche, a philosopher whose ideas continue to 
 For Nietzsche, the key to building a better society was to cultivate a culture that valued individual achievement and progress above all else. He believed that this could only be achieved through a radical transformation of our current values and social structures, which he saw as holding us back from realizing our full potential.
 
 In the context of economics, Nietzsche's Übermensch philosophy can be seen as a call for a system that is focused on and invested in progress through individual merit. Rather than relying on traditional hierarchies or inherited wealth to determine success, this system would reward individuals who have demonstrated exceptional skill, talent, and dedication.
+
+### The Art of Being Human
 
 At its core, this system would be built on a foundation of individualism and self-mastery. Individuals would be encouraged to pursue their passions and talents, and would be provided with the resources and support they need to succeed. This would create a culture of innovation and progress, where new ideas and technologies are constantly being developed and refined.
 
