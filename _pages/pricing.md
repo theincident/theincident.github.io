@@ -1,6 +1,5 @@
 ---
 title: "Subscription Pricing for the Incident"
-layout: default-noside
 permalink: "/pricing.html"
 ---
 
