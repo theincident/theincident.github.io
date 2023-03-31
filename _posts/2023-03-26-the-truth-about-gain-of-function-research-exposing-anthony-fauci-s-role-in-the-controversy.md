@@ -25,11 +25,11 @@ Dr. Fauci has been a vocal advocate of gain of function research for many years.
 
 ## The Twitter Files: Exposing Fauci's Involvement
 
-The Twitter files are a series of leaked documents that purport to show Dr. Fauci's involvement in the funding of gain of function research in Wuhan. The documents suggest that Dr. Fauci and other officials knew about the risks associated with this type of research but chose to fund it anyway. The Twitter files have been widely shared on social media, and they have sparked a heated debate about the ethics of gain of function research.
+The Twitter files are a series of leaked documents that show Dr. Fauci's involvement in the funding of gain of function research in Wuhan. The documents suggest that Dr. Fauci and other officials knew about the risks associated with this type of research but chose to fund it anyway. The Twitter files have been widely shared on social media, and they have sparked a heated debate about the ethics of gain of function research.
 
 ##### Fauci's Testimony to Congress on Gain of Function Research
 
-Dr. Fauci has testified before Congress about his role in gain of function research. In his testimony, he denied any involvement in funding gain of function research in Wuhan. He also argued that gain of function research is necessary to understand and combat deadly diseases. However, his testimony has been criticized by some lawmakers who believe that he is not being truthful about his involvement in the funding of gain of function research.
+Dr. Fauci has testified before Congress about his role in gain of function research. In his testimony, he denied any involvement in funding gain of function research in Wuhan. He also argued that gain of function research is necessary to understand and combat deadly diseases. However, the reality that research his agency funded might be responsible for millions of deaths would mean that he could be tried for crimes against humanity.
 
 ##### The Role of Pfizer in Gain of Function Research
 
