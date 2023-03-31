@@ -7,6 +7,7 @@ baseurl: ''
 url: "https://theincident.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 disqus: 'theincident'
 email: 'isaacjosephhorton@gmail.com'
+sendinblue: 'isaacjosephhorton@gmail.com'
 mailchimp-list: 'https://9788cad7.sibforms.com/serve/MUIEAFe1VP-NTFTRooakVFt_S9f4Ek2XsQbrhGKoq-rYQqOV14nreWWr3PPBb6l60_Ef5jQxOq_brugKCn0LJe02eti3x_RAZDiNmMMx7luDftIe0PzSLL6XcAqUUfDXhN4xotTOM8h3SzILNLXgVAZIN3JLxg3KH2nP07QX68LFkQK3ZsmYGC5q0C9VHk9xGRUPNKY6fCJW-LI-'
 
 include: ["_pages"]

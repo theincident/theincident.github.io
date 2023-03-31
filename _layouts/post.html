@@ -77,9 +77,15 @@ layout: default-noside
 				{% endfor %}
 				</span>
 			</div>
-
+			
+			      <!-- Sendinblue Subscribe Form -->
+			      {% if site.sendinblue %}
+							{% include sendinblue.html %}
+						{% endif %}
             <!-- Mailchimp Subscribe Form -->
             {% if site.mailchimp-list %}
+
+
 			<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
