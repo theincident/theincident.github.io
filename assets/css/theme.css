@@ -80,6 +80,9 @@ a.text-dark:hover {
 	.display-3 {
 		font-size:2rem;
 	}
+	.bodymain {
+		background-position: left top;
+	}
 }
 .row.gap-y>.col,.row.gap-y>[class*="col-"] {
 	padding-top:15px;
@@ -97,6 +100,9 @@ a.text-dark:hover {
 	}
 	.h-md-100 {
 		height:100vh;
+	}
+	.bodymain {
+		background-position: center top;
 	}
 }
 @media (min-width:1200px) {
