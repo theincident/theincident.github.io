@@ -4,6 +4,7 @@ tags:
 - economy
 - prosperity
 - american dream
+- sticky
 layout: post
 author: isaac
 title: Is The American Dream Still Possible?

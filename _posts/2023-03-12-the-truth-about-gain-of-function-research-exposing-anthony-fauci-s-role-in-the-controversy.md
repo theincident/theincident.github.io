@@ -1,9 +1,8 @@
 ---
 tags:
-- sticky
 - Fauci
 - gain of function
-- mask research
+- bioweapons
 layout: post
 author: isaac
 title: The Truth About Gain of Function Research
@@ -13,7 +12,7 @@ categories:
 image: "/assets/img/uploads/fauci-files-1.jpg"
 
 ---
-Gain of function research is a type of scientific study where researchers manipulate microorganisms such as viruses and bacteria to make them stronger and more infectious. This type of research is highly controversial because it has the potential to create pandemics by accident or intention. The research is often conducted in high-security laboratories, and the risk of accidental release is always present. 
+Gain of function research is a type of scientific study where researchers manipulate microorganisms such as viruses and bacteria to make them stronger and more infectious. This type of research is highly controversial because it has the potential to create pandemics by accident or intention. The research is often conducted in high-security laboratories, and the risk of accidental release is always present.
 
 ## What's in the Fauci Files?
 
@@ -27,7 +26,7 @@ The Twitter files are a series of leaked documents that show Dr. Fauci's involve
 
 ##### Fauci's Testimony to Congress on Gain of Function Research
 
-Dr. Fauci has testified before Congress about his role in gain of function research. In his testimony, he denied any involvement in funding gain of function research in Wuhan. He also argued that gain of function research is necessary to understand and combat deadly diseases. However, the reality that research his agency funded might be responsible for millions of deaths would mean that he could be tried for crimes against humanity and it's more than likely that would affect someones testimony. Nobody wants to go prison. 
+Dr. Fauci has testified before Congress about his role in gain of function research. In his testimony, he denied any involvement in funding gain of function research in Wuhan. He also argued that gain of function research is necessary to understand and combat deadly diseases. However, the reality that research his agency funded might be responsible for millions of deaths would mean that he could be tried for crimes against humanity and it's more than likely that would affect someones testimony. Nobody wants to go prison.
 
 This is a sign of something bigger, the foot
 
