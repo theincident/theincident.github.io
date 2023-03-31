@@ -17,35 +17,35 @@ Gain of function research is a type of scientific study where researchers manipu
 
 ## What's in the Fauci Files?
 
-The controversy centers around Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases (NIAID). It has been alleged that Dr. Fauci was involved in funding gain of function research in Wuhan, China, which is believed to be the source of the COVID-19 pandemic. The new documents released and obscured funding mechanisms show a clear conflict of interest and yet nobody is doing anything about it.
-
-##### The Role of Anthony Fauci in Gain of Function Research
+The controversy centers around Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases (NIAID). It has been alleged that Dr. Fauci was involved in funding gain of function research in Wuhan, China, which is believed to be the source of the COVID-19 pandemic. The new documents released and obscured funding mechanisms show a clear conflict of interest. We now know that gain of function has been and still is ongoing.
 
 Dr. Fauci has been a vocal advocate of gain of function research for many years. He has argued that this type of research is necessary to understand how viruses and other microorganisms work and to develop vaccines and treatments for diseases. However, his involvement in the funding of gain of function research in Wuhan has raised concerns about his judgment and ethics.
 
-## The Twitter Files: Exposing Fauci's Involvement
+### The Twitter Files: Exposing Fauci's Involvement
 
-The Twitter files are a series of leaked documents that show Dr. Fauci's involvement in the funding of gain of function research in Wuhan. The documents suggest that Dr. Fauci and other officials knew about the risks associated with this type of research but chose to fund it anyway. The Twitter files have been widely shared on social media, and they have sparked a heated debate about the ethics of gain of function research.
+The Twitter files are a series of leaked documents that show Dr. Fauci's involvement in the funding of gain of function research in Wuhan. The documents suggest that Dr. Fauci and other officials knew about the risks associated with this type of research but chose to fund it anyway. The Twitter files have been widely shared on social media, and they have sparked a heated debate but strangely after the suggestion of the Fauci Files, they have yet to manifest.
 
 ##### Fauci's Testimony to Congress on Gain of Function Research
 
-Dr. Fauci has testified before Congress about his role in gain of function research. In his testimony, he denied any involvement in funding gain of function research in Wuhan. He also argued that gain of function research is necessary to understand and combat deadly diseases. However, the reality that research his agency funded might be responsible for millions of deaths would mean that he could be tried for crimes against humanity.
+Dr. Fauci has testified before Congress about his role in gain of function research. In his testimony, he denied any involvement in funding gain of function research in Wuhan. He also argued that gain of function research is necessary to understand and combat deadly diseases. However, the reality that research his agency funded might be responsible for millions of deaths would mean that he could be tried for crimes against humanity and it's more than likely that would affect someones testimony. Nobody wants to go prison. 
+
+This is a sign of something bigger, the foot
 
 ##### The Role of Pfizer in Gain of Function Research
 
 Pfizer, one of the world's largest pharmaceutical companies, has also been implicated in the controversy surrounding gain of function research. It has been alleged that Pfizer was involved in the development of a variation of gain of function research called Directed Evolution. This type of research involves the manipulation of genes to create new and more powerful microorganisms.
 
-## Market Manipulation and Massive Profits off of the Pandemic
+### Market Manipulation and Massive Profits off of the Pandemic
 
 There is evidence to suggest that some companies, including Pfizer, have profited massively from the COVID-19 pandemic. The pandemic has created a huge demand for vaccines and treatments, and some companies have been accused of price gouging and market manipulation. This has led to concerns about the ethics of pharmaceutical companies and their involvement in gain of function research.
 
 ##### Evidence of Pfizer Employee Jordan Trishtan Walker and How That Implicates Pfizer as Working on a Variation of Gain of Function Research Called Directed Evolution
 
-Jordan Trishtan Walker is a Pfizer employee who has been linked to the development of Directed Evolution. Walker's LinkedIn profile describes him as a "research scientist" and lists his areas of expertise as "viral evolution" and "molecular biology." His profile also includes a list of patents related to the manipulation of genes. This evidence suggests that Pfizer may be involved in the development of new and more powerful microorganisms through Directed Evolution.
+Jordan Trishtan Walker is a Pfizer employee who has been linked to the development of Directed Evolution. Walker's LinkedIn profile describes him as a "research scientist" and lists his areas of expertise as "viral evolution" and "molecular biology." His profile also includes a list of patents related to the manipulation of genes. While the video was not widely circulated except on twitter, millions of people saw the video of JTW admitting on secret camera to have knowledge of Pfizer conducting "Directed Evolution", a form of gain of function on the Covid-19 virus.
 
 ## Corruption Allegations in Gain of Function Research
 
-The controversy surrounding gain of function research has also raised concerns about corruption in the scientific community. Some researchers have been accused of accepting funding from companies and organizations with an interest in the development of new and more deadly diseases. This has led to calls for greater transparency and oversight in the field of scientific research.
+The controversy surrounding gain of function research has also raised concerns about corruption in the scientific community. Some researchers have been accused of accepting funding from companies and organizations with an interest in the development of new and more deadly diseases. This has led to disgust from the public desiring for greater transparency and oversight in the field of scientific research.
 
 ##### The Consequences of Gain of Function Research
 
@@ -55,7 +55,7 @@ The consequences of gain of function research can be dire. The manipulation of m
 
 The debate on gain of function research is ongoing. Supporters argue that it is necessary to understand and combat deadly diseases, while opponents argue that it poses a serious risk to public health and safety. The controversy surrounding Dr. Fauci and the funding of gain of function research in Wuhan has only added fuel to the fire.
 
-##### Fauci's Corrupt Connections to the AIDS Crisis and the Clear Connections to the Military with Gain of Function Research, Which is Obviously Being Used for So-Called Research but What Amounts to Making Biological Weapons Where Anything is Considered
+##### Fauci's Corrupt Connections to the AIDS Crisis
 
 Dr. Fauci has been accused of having corrupt connections to the AIDS crisis and the military. Some researchers believe that he was involved in the development of biological weapons during the Cold War. This has led to concerns about his judgment and ethics, especially in light of his involvement in the funding of gain of function research in Wuhan.
 
