@@ -30,7 +30,7 @@ description: "Uncovering the truth, dismantling corruption."
     <p class="excerpt">
         {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
     </p>
-    <div class="mb-3">
+    <div class="mb-3 clearfix">
         <small class="d-block text-muted float-left">
             In <span class="catlist">
                 {% for category in latest_post.categories %}
