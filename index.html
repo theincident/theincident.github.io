@@ -30,15 +30,15 @@ description: "Uncovering the truth, dismantling corruption."
     <p class="excerpt">
         {{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
     </p>
-    <div>
-        <small class="d-block text-muted">
+    <di class="mb-3">
+        <small class="d-block text-muted float-left">
             In <span class="catlist">
                 {% for category in latest_post.categories %}
                 <a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>
         </small>
-        <small class="text-muted">
+        <small class="text-muted float-right">
             {{ latest_post.date | date: '%b %d, %Y' }}
         </small>
     </div>
