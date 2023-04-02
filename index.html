@@ -67,14 +67,14 @@ description: "Uncovering the truth, dismantling corruption."
                         <div class="mb-3 clearfix">
                     <small class="d-block text-muted float-left">
                         In <span class="catlist">
-                            {% for category in latest_post.categories %}
+                            {% for category in second_post.categories %}
                             <a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                             {% endfor %}
                             </span>
                     </small>
                     <small class="text-muted float-right">
                     <small class="badge badge-light">
-                        {{ latest_post.date | date: '%b %d, %Y' }}
+                        {{ second_post.date | date: '%b %d, %Y' }}
                     </small>
                     </small>
                     </div>
