@@ -64,15 +64,17 @@ description: "Uncovering the truth, dismantling corruption."
                     <h5 class="mb-2 pr-lg-3">
                     <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
                     </h5>
-                    <small class="d-block text-muted">
+                    <small class="d-block text-muted float-left">
                         In <span class="catlist">
-                        {% for category in second_post.categories %}
-                        <a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
+                            {% for category in latest_post.categories %}
+                            <a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                            {% endfor %}
+                            </span>
                     </small>
-                    <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                    <small class="text-muted float-right">
+                    <small class="badge badge-light">
+                        {{ latest_post.date | date: '%b %d, %Y' }}
+                    </small>
                     </small>
                 </div>
             </div>
