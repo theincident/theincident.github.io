@@ -6,16 +6,20 @@
 	<p class="excerpt">
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
-	<small class="d-block text-muted">
+	  <div class="mb-3 clearfix">
+	<small class="d-block text-muted float-left">
 		In <span class="catlist">
 		{% for category in post.categories %}
 		<a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
 	</small>
-	<small class="text-muted">
-		{{ post.date | date: '%b %d, %Y' }}
+	<small class="text-muted float-right">
+	<small class="badge badge-light">
+			{{ post.date | date: '%b %d, %Y' }}
 	</small>
+	</small>
+	</div>
 </div>
 {% if post.image %}
 	<div class="col-3 pr-0 text-right">
