@@ -95,16 +95,20 @@ description: "Uncovering the truth, dismantling corruption."
                     <h5 class="mb-2 pr-lg-3">
                     <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
                     </h5>
-                    <small class="d-block text-muted">
+                      <div class="mb-3 clearfix">
+                    <small class="d-block text-muted float-left">
                         In <span class="catlist">
                         {% for category in third_post.categories %}
                         <a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
                     </small>
-                    <small class="text-muted">
+                    <small class="text-muted float-right">
+                    <small class="badge badge-light">
                         {{ third_post.date | date: '%b %d, %Y' }}
                     </small>
+                    </small>
+                    </div>
                 </div>
             </div>
 
@@ -122,16 +126,20 @@ description: "Uncovering the truth, dismantling corruption."
                     <h5 class="mb-2 pr-lg-3">
                     <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
                     </h5>
-                    <small class="d-block text-muted">
+                    <div class="mb-3 clearfix">
+                    <small class="d-block text-muted float-left">
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
                         <a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
                     </small>
-                    <small class="text-muted">
+                    <small class="text-muted float-right">
+                    <small class="badge badge-light">
                         {{ fourth_post.date | date: '%b %d, %Y' }}
                     </small>
+                    </small>
+                    </div>
                 </div>
             </div>
 
