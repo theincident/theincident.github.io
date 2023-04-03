@@ -1,0 +1,11 @@
+---
+layout: default
+title: Latest Tweets
+---
+
+<h1>Latest Tweets</h1>
+
+{% for tweet in site.data.tweets %}
+  <p>{{ tweet.text }}</p>
+  <p>{{ tweet.created_at }}</p>
+{% endfor %}

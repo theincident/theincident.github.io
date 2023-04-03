@@ -65,3 +65,10 @@ paginate: 10
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+# twitter show recent posts
+twitter:
+  consumer_key: orA8d7Vrxyj0PvRcQyD9cpbdb
+  consumer_secret: GWwZqjH0f0Z4ixVw9Hc3heKDPLrY1pZ6I2FloB81QE8p8OamKP
+  access_token: 1642958168220389377-BXgEQRIINDl6SMdaJRFs4IPvIN0SAn
+  access_token_secret: emxROrmpvJwRCZ2yisNl6hw4r6jYOxFLJsYcAtdxlin9B
