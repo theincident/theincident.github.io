@@ -71,6 +71,9 @@ a.text-dark:hover {
 	background-image: url("/assets/images/bg-typo2.png");
 	background-position: center top;
 }
+.masthead {
+	min-height:130px;
+}
 @media (max-width:991.98px) {
 	.display-3 {
 		font-size:3.5rem;
