@@ -111,7 +111,7 @@ The government's abuse of power and manipulation of the legal system to protect 
 
 The US government must recognize the hypocrisy of its actions and take steps to address the crimes committed by its military, rather than focusing its efforts on persecuting those who expose these crimes. It must also take steps to prevent future abuses of power and ensure that democratic principles and the rule of law are upheld at all times.
 
-The persecution of Julian Assange and the hypocrisy of the US government's actions serve as a warning of the dangers of unchecked government power and the importance of upholding democratic principles and the rule of law.
+The persecution of Julian Assange and the hypocrisy of the US government's actions serve as a _warning_ of the dangers of unchecked government power and the importance of upholding democratic principles and the rule of law.
 
 ### The Need to Release Assange
 
