@@ -105,7 +105,7 @@ The government claims to promote democracy, freedom of speech, and human rights,
 
 Assange's exposure of war crimes committed by the US military should have been a call to action for the government to address these crimes and hold those responsible accountable. Instead, the government has focused its efforts on persecuting Assange and suppressing free speech, effectively protecting those who committed these war crimes.
 
-Furthermore, the government's use of black money operations to fund illegal activities is a clear violation of democratic principles and the rule of law. This hypocritical behavior undermines the US's moral authority and credibility on the world stage, calling into question its commitment to upholding democratic values and human rights.
+The actual war crimes committed by the Pentagon and past presidents are a perfect example of the blatant hypocrisy of the United States justice system. This hypocritical behavior undermines the US's moral authority and credibility on the world stage, calling into question its commitment to upholding democratic values and human rights.
 
 The government's abuse of power and manipulation of the legal system to protect itself and its interests is a dangerous precedent. It sets a precedent for future abuses of power and undermines the very foundations of democracy and the rule of law.
 
