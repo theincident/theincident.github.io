@@ -17,14 +17,12 @@ tags:
 - Psychological Torture
 layout: post
 author: isaac
-title: 'The Hypocrisy of the US Government''s Persecution of Julian Assange: Exposing
-  War Crimes and Suppressing Free Speech'
+title: The Hypocrisy of the US Government's Persecution of Julian Assange
 categories:
 - Whistleblowers
 - Journalism
 - Human Rights
 - Civil Liberties
-- International Relations
 - Politics
 image: "/assets/img/uploads/statement-julian-assange-2020-870x489.jpeg"
 
