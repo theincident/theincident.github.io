@@ -4,7 +4,7 @@ layout: page
 permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 ---
-# Made with respect for the Constitution, free speech and the voice of our forefathers.
+# Re-discovering the spirit of the Constitution, free speech and the voice of our forefathers.
 
 Welcome to The Incident, an independent journalism news website dedicated to shedding light on the critical issues impacting politics, economics, AI, and corruption. Our team of experienced journalists is committed to uncovering the truth behind the workings of the media, corporations, and the Deep State, to bring you unfiltered, unbiased, and honest news.
 
