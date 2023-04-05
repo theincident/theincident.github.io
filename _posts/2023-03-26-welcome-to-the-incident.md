@@ -19,10 +19,6 @@ a platform committed to uncovering the truth, revealing corruption, and empoweri
 
 Our team of experienced journalists is committed to providing our readers with accurate and factual information. At The Incident, we follow strict ethical standards, and our reporting is entirely independent of any political or corporate influence. We are the opposite of mainstream media, bringing journalistic integrity that is untouchable by current media representatives.
 
-One of our main goals at The Incident is to discover who is behind the recent attack on the Nordstream 2 pipeline. This pipeline plays a crucial role in Europe's energy supply, and we are committed to uncovering the truth behind this attack, regardless of political or corporate influence.
-
-# Its time to free Julian Assange
-
 We also believe in the importance of freeing Julian Assange and Edward Snowden. These two whistleblowers have sacrificed their freedom to expose the corrupt workings of governments and corporations, and we must do everything in our power to support their cause.
 
 Furthermore, we believe that wars are often corrupt and motivated by greed and power. It is essential to build systems of unity to counter the force of aggressive capitalism and inwardly focused propaganda. By coming together and working towards a common goal, we can create a more just and equitable society for all.
