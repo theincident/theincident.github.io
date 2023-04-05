@@ -3,8 +3,9 @@ layout: post
 tags:
 - journalism
 - corruption
-- war
-- nordstream
+- propaganda
+- capitalism
+- whistleblowers
 title: Welcome to the Incident
 author: isaac
 categories:
@@ -14,8 +15,7 @@ image: "/assets/img/uploads/flowereye.jpg"
 ---
 Dedicated to uncovering the truth behind politics, economics, AI, and corruption in the media, corporations, and the Deep State.
 
-# Welcome to The Incident,
-a platform committed to uncovering the truth, revealing corruption, and empowering independent journalists to make their mark in the world of fearless journalism. We are dedicated to shining a light on critical issues that impact our world today, including politics, economics, AI, and corruption.
+We are a news platform committed to uncovering the truth, revealing corruption, and empowering independent journalists to make their mark in the world of fearless journalism. We are dedicated to shining a light on critical issues that impact our world today, including politics, economics, AI, and corruption.
 
 Our team of experienced journalists is committed to providing our readers with accurate and factual information. At The Incident, we follow strict ethical standards, and our reporting is entirely independent of any political or corporate influence. We are the opposite of mainstream media, bringing journalistic integrity that is untouchable by current media representatives.
 
