@@ -107,7 +107,7 @@ Assange's exposure of war crimes committed by the US military should have been a
 
 The actual war crimes committed by the Pentagon and past presidents are a perfect example of the blatant hypocrisy of the United States justice system. This hypocritical behavior undermines the US's moral authority and credibility on the world stage, calling into question its commitment to upholding democratic values and human rights.
 
-The government's abuse of power and manipulation of the legal system to protect itself and its interests is a dangerous precedent. It sets a precedent for future abuses of power and undermines the very foundations of democracy and the rule of law.
+The government's abuse of power and manipulation of the legal system to protect itself and its interests is a dangerous precedent. It sets a precedent for future abuses of power and undermines the very foundations of democracy.
 
 The US government must recognize the hypocrisy of its actions and take steps to address the crimes committed by its military, rather than focusing its efforts on persecuting those who expose these crimes. It must also take steps to prevent future abuses of power and ensure that democratic principles and the rule of law are upheld at all times.
 
