@@ -39,8 +39,6 @@ The charges against Assange are based on corrupt interpretations of the law, and
 
 Assange has suffered greatly by the abuse of the justice system for political and military protection. He has been held in solitary confinement, denied access to medical care, and his legal rights have been violated repeatedly. The extradition process has been marked by irregularities, and his lawyers have been prevented from presenting key evidence in his defense.
 
-The continued persecution of Assange is a clear violation of freedom of the press and a threat to democracy. In the following parts of this article, we will explore the details of Assange's case and the need for his release.
-
 ### The Crimes Assange Exposed
 
 Julian Assange and WikiLeaks have been responsible for publishing some of the most important and damning documents in modern history, exposing the illegal actions of the US government in Iraq and Afghanistan. These documents have revealed the extent of the atrocities committed by the US military, including the killing of civilians, torture, and other abuses.
@@ -97,13 +95,13 @@ The government's abuse of power is exemplified by the case of Julian Assange. As
 
 This abuse of power is further evidenced by the fact that many government projects are funded as black money operations, allowing illegal activities to be carried out with impunity. The hypocrisy of the government's position is evident, as it claims to be promoting democracy and human rights while engaging in illegal activities and suppressing free speech.
 
-The continued persecution of Assange by the government is a clear example of the abuse of power and the manipulation of the legal system for political and military protection. It is a violation of human rights and a threat to democracy and the rule of law.
+The abuse of Assange by the government is a clear example of the power and manipulation of the legal system for political and military protection. It is a violation of human rights and a threat to democracy and the rule of law.
 
 The Church Committee's investigations showed the importance of curbing the government's ability to spy on its citizens and abuse its power. The continued abuse of power by the government, as exemplified by the case of Assange, is a clear warning of the dangers of allowing such abuses to continue unchecked.
 
 ### The Hypocrisy of the Situation
 
-The persecution of Julian Assange by the US government is a clear example of the hypocrisy of the situation. The government claims to promote democracy, freedom of speech, and human rights, yet it engages in illegal activities and violates these same principles.
+The government claims to promote democracy, freedom of speech, and human rights, yet it engages in illegal activities and violates these same principles.
 
 Assange's exposure of war crimes committed by the US military should have been a call to action for the government to address these crimes and hold those responsible accountable. Instead, the government has focused its efforts on persecuting Assange and suppressing free speech, effectively protecting those who committed these war crimes.
 
@@ -117,13 +115,13 @@ The persecution of Julian Assange and the hypocrisy of the US government's actio
 
 ### The Need to Release Assange
 
-The persecution of Julian Assange by the US government is not only a violation of democratic principles and the rule of law, but also a threat to the freedom of the press and free speech. The charges against Assange are based on corrupt interpretations of the law, and his extradition to the US would set a dangerous precedent for the suppression of investigative journalism and whistleblowers.
+This is not only a violation of democratic principles and the rule of law, but also a threat to the freedom of the press and free speech. The charges against Assange are based on corrupt interpretations of the law, and his extradition to the US would set a dangerous precedent for the suppression of investigative journalism and whistleblowers.
 
 Assange's exposure of war crimes committed by the US military is a public service and should be protected under the First Amendment. His prosecution sets a dangerous precedent for journalists and whistleblowers who seek to hold those in power accountable for their actions.
 
 Furthermore, Assange's treatment in custody has been a clear abuse of the justice system. He has been subjected to prolonged isolation and psychological torture, which has had a severe impact on his mental and physical health.
 
-It is essential that the US government release Julian Assange and drop all charges against him. The freedom of the press and free speech must be protected, and whistleblowers must be able to come forward without fear of retribution.
+It really is _essential_ that the US government release Julian Assange and drop all charges against him. The freedom of the press and free speech must be protected, and whistleblowers must be able to come forward without fear of retribution.
 
 Moreover, the US government must address the war crimes committed by its military and hold those responsible accountable. Only by acknowledging and addressing these crimes can the US restore its moral authority and credibility on the world stage.
 
