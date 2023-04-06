@@ -78,8 +78,17 @@ a.text-dark:hover {
 	font-family:Arial,Helvetica,sans-serif;
 	font-size:13px;
 }
-.list-group-item {
+.footer li.list-group-item-action:hover {
+	background:none;
+}
+.footer li a {
+	padding:5px;
+	display:block;
+}
+
+.footer .list-group-item {
 	background-color: transparent;
+	padding:1px;
 }
 @media (max-width:991.98px) {
 	.display-3 {
