@@ -85,10 +85,13 @@ a.text-dark:hover {
 	padding:9px;
 	display:block;
 }
-
 .footer .list-group-item {
 	background-color: transparent;
 	padding:1px;
+	border:0;
+}
+.footer .list-group-item-flush {
+	border:0;
 }
 @media (max-width:991.98px) {
 	.display-3 {
