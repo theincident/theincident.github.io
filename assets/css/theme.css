@@ -82,12 +82,12 @@ a.text-dark:hover {
 	background:none;
 }
 .footer li a, .footer li.list-group-item.card-title {
-	padding:9px;
+	padding:10px;
 	display:block;
 }
 .footer .list-group-item {
 	background-color: transparent;
-	padding:1px;
+	padding:0;
 	border:0;
 }
 .footer .list-group-item-flush {
