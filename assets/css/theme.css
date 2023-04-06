@@ -81,8 +81,8 @@ a.text-dark:hover {
 .footer li.list-group-item-action:hover {
 	background:none;
 }
-.footer li a {
-	padding:5px;
+.footer li a., .footer li.cardtitle {
+	padding:9px;
 	display:block;
 }
 
