@@ -1,31 +1,33 @@
 <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3 col-md-7 pl-0 ">
-	<h4 class="mb-1">
-	<a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
-	</h4>
-	<p class="excerpt">
-	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
-	</p>
-	  <div class="mb-3 clearfix">
-	<small class="d-block text-muted float-left">
-		In <span class="catlist">
-		{% for category in post.categories %}
-		<a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
-		{% endfor %}
-		</span>
-	</small>
-	<small class="text-muted float-left">
-	<small class="badge badge-light">
-			{{ post.date | date: '%b %d, %Y' }}
-	</small>
-	</small>
+	<div class="row">
+		<div class="pr-3 col-md-7 pl-0 ">
+			<h4 class="mb-1">
+				<a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+			</h4>
+			<p class="excerpt">
+				{{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
+			</p>
+			<div class="mb-3 clearfix">
+				<small class="d-block text-muted float-left">
+					In <span class="catlist">
+						{% for category in post.categories %}
+						<a class="text-capitalize badge badge-light smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+						{% endfor %}
+					</span>
+				</small>
+				<small class="text-muted float-left">
+					<small class="badge badge-light">
+						{{ post.date | date: '%b %d, %Y' }}
+					</small>
+				</small>
+			</div>
+		</div>
+		{% if post.image %}
+		<div class="col-md-5 px-0 text-right">
+			<a href="{{site.baseurl}}{{post.url}}">
+				<img class="w-100" src="{{ post.image }}" alt="{{ post.title }}">
+			</a>
+		</div>
+		{% endif %}
 	</div>
-</div>
-{% if post.image %}
-	<div class="col-md-5 pr-0 text-right">
-	<a href="{{site.baseurl}}{{post.url}}">
-	<img class="w-100" src="{{ post.image }}" alt="{{ post.title }}">
-	</a>
-	</div>
-{% endif %}
 </div>
