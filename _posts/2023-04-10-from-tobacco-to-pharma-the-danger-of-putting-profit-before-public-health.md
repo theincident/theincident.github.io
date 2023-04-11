@@ -67,7 +67,7 @@ The industry also engages in price gouging, where they increase the prices of es
 
 Furthermore, the industry exploits vulnerable populations, such as people with rare diseases, by charging exorbitant prices for their medications. The drug company Biogen, for example, charged $56,000 per year for a medication to treat a rare genetic disorder, despite the fact that the medication had been available in Europe for a fraction of the price.
 
-Profit Motives Over Health
+### Profit Motives Over Health
 
 The profit motives of the pharmaceutical industry often come at the expense of public health. In many cases, drug companies prioritize profits over patient safety and well-being.
 
@@ -77,7 +77,7 @@ Another example is the promotion of drugs with known side effects, such as antid
 
 Additionally, the industry often focuses on developing drugs for profitable markets, rather than for diseases that are most in need of treatment. This has led to a lack of investment in treatments for neglected diseases, such as malaria and tuberculosis, which disproportionately affect the world's poorest populations.
 
-The Need for Reform
+### The Need for Reform
 
 The pharmaceutical industry's profit-driven practices have led to a crisis of affordability, accessibility, and safety for many patients. The need for reform is urgent, as more and more people are unable to access life-saving medications due to skyrocketing prices.
 
@@ -87,7 +87,7 @@ Another solution is to promote alternative models of drug development and distri
 
 Ultimately, the goal should be to prioritize public health over profit. This will require a fundamental shift in the way that we approach healthcare, with a focus on ensuring that everyone has access to safe, affordable, and effective treatments.
 
-Lessons from History
+### Lessons from History
 
 The history of the tobacco industry and its eventual regulation provides important lessons for the pharmaceutical industry today. Just as tobacco companies prioritized profits over public health, drug companies have a responsibility to prioritize the well-being of patients over their bottom line.
 
@@ -101,7 +101,7 @@ The history of the tobacco industry and its regulation highlights the need for s
 
 The lessons of the tobacco industry's regulation provide important guidance for the pharmaceutical industry today. By prioritizing transparency, accountability, collective action, and strong government regulation, we can ensure that the industry serves the needs of patients and the public, rather than its own profits.
 
-The Path Forward
+### The Path Forward
 
 The history of the tobacco industry and the current state of the pharmaceutical industry both reveal the dangers of allowing profit to drive public health decisions. Money has become like a cancer on our society, eating away at the fundamental health of the people. We need to remove the influence of money from the equation and prioritize the health of the public.
 
@@ -109,9 +109,9 @@ One major milestone that needs to be addressed is the need for affordable and ac
 
 Another important milestone is the need for transparency and accountability in the pharmaceutical industry. We need to ensure that drug companies are held responsible for their actions, and that they prioritize public health over profits. This includes increasing transparency in drug pricing, clinical trial data, and the influence of drug companies on medical research and prescribing practices.
 
-Finally, we need to prioritize preventative care and public health initiatives. Rather than focusing solely on treating illness, we need to invest in programs and policies that prevent illness from occurring in the first place. This includes initiatives to improve diet and exercise, increase access to vaccines and preventative screenings, and reduce exposure to environmental toxins.
+We need to prioritize preventative care and public health initiatives. Rather than focusing solely on treating illness, we need to invest in programs and policies that prevent illness from occurring in the first place. This includes initiatives to improve diet and exercise, increase access to vaccines and preventative screenings, and reduce exposure to environmental toxins.
 
-In conclusion, the path forward requires a fundamental shift in our priorities. We need to remove the influence of money from public health decisions and prioritize the health of the public. By investing in affordable healthcare, transparency and accountability in the pharmaceutical industry, and preventative care and public health initiatives, we can build a system that truly serves the needs of the people.
+The path forward requires a fundamental shift in our priorities. We need to remove the influence of money from public health decisions and prioritize the health of the public. By investing in affordable healthcare, transparency and accountability in the pharmaceutical industry, and preventative care and public health initiatives, we can build a system that truly serves the needs of the people.
 
 References:
 
