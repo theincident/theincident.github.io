@@ -1,6 +1,12 @@
-/*!
- * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
- */
+
+@font-face {
+    font-family: 'bodohni';
+    src: url('/assets/css/bodohni-bold-webfont.woff2') format('woff2'),
+         url('/assets/css/bodohni-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 body {
 	overflow-x:hidden;
@@ -35,7 +41,7 @@ img {
   display: flex;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family:Times,"Times New Roman",serif;
+	font-family:'bodohni',serif;
 	font-weight:normal;
 	margin-bottom: 1.5rem;
 }
@@ -62,7 +68,7 @@ a.text-dark:hover {
 	z-index:1;
 }
 .jumbotron-home h1 {
-		font-family: Times,"Times New Roman",serif;
+		font-family: 'bodohni',"Times New Roman",serif;
 		font-size: 2.4rem;
 		font-weight: 700;
 		line-height: 1.1;
@@ -706,7 +712,7 @@ article {
     font-family:Lora;
 }
 .article-headline {
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: 'bodohni',serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
