@@ -49,6 +49,14 @@ The pharmaceutical industry also lobbies extensively to prevent regulations that
 
 Furthermore, the industry manipulates clinical trials, which are meant to test the safety and efficacy of drugs. A study published in the New England Journal of Medicine found that pharmaceutical companies frequently manipulate the design of trials and selectively report results to make their products appear more effective and safe.
 
+### Don't rattle the cage, Bret!
+
+Renowned biologist Bret Weinstein made a groundbreaking discovery about telomeres in rats, and its implications for cancer research and tissue damage have been widely ignored by the industry. Weinstein discovered that telomeres, the protective caps at the ends of chromosomes, can shorten due to aging and damage, leading to a higher risk of cancer and other diseases. However, his research suggests that telomeres may not always shorten at the same rate, and the current methods used to measure them using common lab rats may overestimate cancer risks and underestimate tissue damage which is beneficial to the pharmaceutical companies.
+
+Despite the potential impact of his findings, Weinstein's research has been largely ignored by the industry. This is because it has the potential to invalidate prior research, which could be detrimental for pharmaceutical companies. These companies can manipulate research through selective funding to produce favorable results for their products. Weinstein's research was a threat to their bottom line, so it was simply ignored.
+
+This is not the first time that pharmaceutical companies have prioritized profits over public health. The industry has a long history of manipulating research to produce favorable results, and many drugs have been approved based on flawed research. This has led to countless health problems and even deaths.
+
 ### Lawbreaking for Profit
 
 The pharmaceutical industry has repeatedly broken the law to increase profits. They engage in illegal practices such as bribery, kickbacks, and fraud to promote their products and increase sales. According to a report by Public Citizen, the pharmaceutical industry has paid over $38 billion in fines and settlements for illegal activities since 1991.
