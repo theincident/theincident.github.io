@@ -15,31 +15,33 @@ categories:
 image: "/assets/img/uploads/white-pain-pills-medicine-pharmaceutical-laying-on-2021-09-01-14-44-14-utc-scaled-1-1024x682.jpeg"
 
 ---
-For decades, the tobacco industry operated unchecked despite knowing that their products were causing cancer. The industry manipulated public opinion and science to maintain profits, while the government was slow to act. According to the Centers for Disease Control and Prevention, tobacco use is the leading cause of preventable disease, disability, and death in the United States, accounting for more than 480,000 deaths every year.
+For decades, the tobacco industry operated unchecked despite knowing that their products were causing cancer. The industry manipulated public opinion and science to maximize profits, while the government was slow to act all at the expense of American lives. According to the Centers for Disease Control and Prevention, tobacco use is a leading cause of preventable disease, disability, and death in the United States, accounting for more than 480,000 deaths every year.
 
-Despite this, tobacco companies like Philip Morris and RJ Reynolds continued to push their products, even after research linked smoking to lung cancer in the 1950s. In 1964, the Surgeon General released a report that officially linked smoking to cancer, but it took another decade before the government took action.
+Despite this, tobacco companies like Philip Morris and RJ Reynolds continued to push their products after research linked smoking to lung cancer in the 1950s. In 1964, the Surgeon General released a report that officially linked smoking to cancer, but it took another decade before the government took action.
 
-The tobacco industry fought back, launching massive campaigns to discredit the science linking smoking to cancer and manipulating public opinion to maintain their profits. They sponsored research that suggested smoking was not harmful and pushed for more lenient regulations.
+The tobacco industry fought back ruthlessly, launching massive campaigns to discredit the science linking smoking to cancer and manipulating public opinion to maintain their profits. They sponsored research that suggested smoking was not harmful and pushed for more lenient regulations.
 
-According to a report by the Campaign for Tobacco-Free Kids, tobacco companies continue to make billions of dollars in profits every year, with a net profit of $35 billion in 2019 alone. The industry also spends millions of dollars every year on lobbying efforts to prevent new regulations and maintain their profits.
+According to a report by the Campaign for Tobacco-Free Kids, tobacco companies continue to make billions of dollars in profits every year, with a net profit of $35 billion in 2019 alone. The industry also spends millions of dollars every year on lobbying efforts to prevent new regulations and maintain their profits which shows a scary but real truth at the heart of our global banking system, it is ok to profit off of death if you can get away with it legally or pseudo-legally.
 
-The Pharmaceutical Industry
+### The Pharmaceutical Industry
 
-The pharmaceutical industry operates similarly to the tobacco industry in the 60's, with a focus on profit over health. They control information through selective research, manipulate doctors and patients, and repeatedly break the law to gain more profit.
+The pharmaceutical industry operates similarly to the tobacco industry in the 60's, with a focus on profit over health. In fact, they profit off of our unhealthiness. Pharmaceutical companies control information through selective research that they themselves fund with clear conflict of interest, they manipulate doctors and patients, and repeatedly break the law to gain more profit.
 
-According to a report by Public Citizen, the pharmaceutical industry is one of the most profitable industries in the United States, with a net profit margin of 17% in 2018. They also spend billions of dollars every year on marketing and advertising, manipulating doctors and patients to prescribe and use their products.
+According to a report by Public Citizen, the pharmaceutical industry is one of the most profitable industries in the United States, with a net profit margin of 17% in 2018. They also spend billions of dollars every year on marketing and advertising, influencing(manufacturing consent) doctors and patients to prescribe and use their products.
 
-Drug companies produce selective research that shows the benefits of their products while ignoring the side-effects. According to a study published in the Journal of the American Medical Association, about one-third of all new drugs approved by the FDA have serious side-effects that were not discovered until after approval.
+Drug companies produce selective research that shows the benefits of their products while ignoring the side-effects. 
 
-Drug companies have also been repeatedly caught breaking the law to gain more profit. In 2020, five major pharmaceutical companies were fined a total of $5.7 billion for their role in the opioid epidemic, but the effective profit margin is so massive that they can afford these fines as a cost of production.
+> According to a study published in the Journal of the American Medical Association, about one-third of all new drugs approved by the FDA have serious side-effects that were not discovered until after approval.
 
-The focus on profit over health has also led to high drug prices, with some medications costing tens of thousands of dollars per year. The industry has no incentive to lower prices or prioritize health, instead, they need sick people and new markets of experimental therapy to sell their products.
+Drug companies have been repeatedly caught breaking the law to gain more profit. In 2020, five major pharmaceutical companies were fined a total of $5.7 billion for their role in the opioid epidemic, but the effective profit margin is so massive that they can afford these fines as a cost of production. Think about that for a second. They make so much profit, that they can afford to simply spend a small portion of that to pay fines which means that they have incentive to break the law, they have incentive to sacrifice public health for the sake of profit. 
 
-According to a report by the House Oversight Committee, the 14 largest pharmaceutical companies spent $577 billion on stock buybacks and dividends between 2016 and 2020, prioritizing shareholder profits over investing in research and development.
+The focus on profit over health has also led to high drug prices, with some medications costing tens of thousands of dollars per year. The industry has no incentive to lower prices or prioritize health, instead, they need sick people and new markets of experimental therapy to sell their products. One such market is the highly controversial obesity therapy drugs that have been recently recommended by the American Academy of Pediatrics. These markets revolve around lack of education. Any health expert will argue it's much more healthy to exercise and eat well than to take a drug that attempts to solve metabolic and hormonal issues which are a natural part of going through puberty. But even with this common knowledge the Big Pharma cartels have such a stranglehold on information that they can manipulate public policy and public opinion enough that they make millions and laugh all the way to the bank. The stupidity of average people, they must think to themselves.
 
-Controlling Information
+According to a report by the House Oversight Committee, the 14 largest pharmaceutical companies spent $577 billion on stock buybacks and dividends between 2016 and 2020, prioritizing shareholder profits over public and individual health.
 
-Just like the tobacco industry, the pharmaceutical industry controls information to maintain profits. They sponsor research that shows the benefits of their products, while downplaying or ignoring the negative effects. They also lobby to prevent the release of negative information and manipulate doctors and patients to promote their products.
+### Controlling Information
+
+Just like the tobacco industry, the pharmaceutical industry has learned to control information to maintain profits. They sponsor research that shows the benefits of their products, while downplaying or ignoring the negative effects. They also lobby to prevent the release of negative information and manipulate doctors and patients to promote their products.
 
 A study published in JAMA Internal Medicine found that pharmaceutical companies spent $27.5 billion on drug promotion in 2016, with most of that money going towards marketing directly to doctors. Another study published in the Journal of General Internal Medicine found that over 90% of doctors have received gifts or payments from drug companies, which can influence their prescribing decisions.
 
@@ -47,7 +49,7 @@ The pharmaceutical industry also lobbies extensively to prevent regulations that
 
 Furthermore, the industry manipulates clinical trials, which are meant to test the safety and efficacy of drugs. A study published in the New England Journal of Medicine found that pharmaceutical companies frequently manipulate the design of trials and selectively report results to make their products appear more effective and safe.
 
-Lawbreaking for Profit
+### Lawbreaking for Profit
 
 The pharmaceutical industry has repeatedly broken the law to increase profits. They engage in illegal practices such as bribery, kickbacks, and fraud to promote their products and increase sales. According to a report by Public Citizen, the pharmaceutical industry has paid over $38 billion in fines and settlements for illegal activities since 1991.
 
@@ -122,8 +124,6 @@ References:
 * New England Journal of Medicine. "Selective Publication of Antidepressant Trials and Its Influence on Apparent Efficacy." [**https://www.nejm.org/doi/full/10.1056/nejmsa065779**](https://www.nejm.org/doi/full/10.1056/nejmsa065779 "https://www.nejm.org/doi/full/10.1056/nejmsa065779")
 * Public Citizen. "Pharmaceutical Industry Criminal and Civil Penalties: An Update." [**https://www.citizen.org/article/pharmaceutical-industry-criminal-and-civil-penalties-an-update/**](https://www.citizen.org/article/pharmaceutical-industry-criminal-and-civil-penalties-an-update/ "https://www.citizen.org/article/pharmaceutical-industry-criminal-and-civil-penalties-an-update/")
 * NBC News. "Purdue Pharma Pleads Guilty to Criminal Charges in Connection with Opioid Epidemic." [**https://www.nbcnews.com/news/us-news/purdue-pharma-pleads-guilty-criminal-charges-connection-opioid-epidemic-n1247441**](https://www.nbcnews.com/news/us-news/purdue-pharma-pleads-guilty-criminal-charges-connection-opioid-epidemic-n1247441 "https://www.nbcnews.com/news/us-news/purdue-pharma-pleads-guilty-criminal-charges-connection-opioid-epidemic-n1247441")
-
-
 * National Institute on Drug Abuse. "Opioid Overdose Crisis." [**https://www.drugabuse.gov/drug-topics/opioids/opioid-overdose-crisis**](https://www.drugabuse.gov/drug-topics/opioids/opioid-overdose-crisis "https://www.drugabuse.gov/drug-topics/opioids/opioid-overdose-crisis")
 * Harvard Health Publishing. "Antidepressants and Violence: Problems at the Interface of Medicine and Law." [**https://www.health.harvard.edu/newsletter_article/antidepressants-and-violence-problems-at-the-interface-of-medicine-and-law**](https://www.health.harvard.edu/newsletter_article/antidepressants-and-violence-problems-at-the-interface-of-medicine-and-law "https://www.health.harvard.edu/newsletter_article/antidepressants-and-violence-problems-at-the-interface-of-medicine-and-law")
 * World Health Organization. "Neglected Tropical Diseases." [**https://www.who.int/neglected_diseases/en/**](https://www.who.int/neglected_diseases/en/ "https://www.who.int/neglected_diseases/en/")
