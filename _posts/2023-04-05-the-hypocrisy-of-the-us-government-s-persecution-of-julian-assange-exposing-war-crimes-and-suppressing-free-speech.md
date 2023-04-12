@@ -1,7 +1,6 @@
 ---
 tags:
 - Julian Assange
-- war crimes
 - freedom of the press
 - first amendment
 - US government
@@ -9,7 +8,6 @@ tags:
 - corruption
 - justice system
 - surveillance
-- hypocrisy
 - Church Committee
 - Democracy
 - Free Speech
@@ -19,10 +17,7 @@ layout: post
 author: isaac
 title: The Hypocrisy of the US Government's Persecution of Julian Assange
 categories:
-- Whistleblowers
-- Journalism
 - Human Rights
-- Civil Liberties
 - Politics
 image: "/assets/img/uploads/statement-julian-assange-2020-870x489.jpeg"
 
