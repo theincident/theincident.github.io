@@ -6,6 +6,7 @@ tags:
 - pharmaceutical industry
 - drug pricing
 - universal healthcare
+- sticky
 layout: post
 author: isaac
 title: 'From Tobacco to Pharma: The Danger of Putting Profit Before Public Health'
