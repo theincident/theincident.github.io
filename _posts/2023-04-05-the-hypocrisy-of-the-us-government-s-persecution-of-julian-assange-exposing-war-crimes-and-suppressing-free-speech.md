@@ -11,7 +11,7 @@ tags:
 - Church Committee
 - Democracy
 - Free Speech
-- Isolation
+- featured
 - Psychological Torture
 layout: post
 author: isaac
@@ -22,7 +22,7 @@ categories:
 image: "/assets/img/uploads/statement-julian-assange-2020-870x489.jpeg"
 
 ---
-The case of Julian Assange is one of the most controversial and important stories of our time. Assange, the founder of WikiLeaks, has been held in Belmarsh prison in the UK for almost 4 years, and is currently fighting extradition to the United States, where he faces espionage charges for his role in publishing classified government documents which is a gross manipulation of the law to protect the Deep State and military who are implicated in countless crimes against humanity. 
+The case of Julian Assange is one of the most controversial and important stories of our time. Assange, the founder of WikiLeaks, has been held in Belmarsh prison in the UK for almost 4 years, and is currently fighting extradition to the United States, where he faces espionage charges for his role in publishing classified government documents which is a gross manipulation of the law to protect the Deep State and military who are implicated in countless crimes against humanity.
 
 Assange's case raises important questions about the limits of government power, the role of the media in a democratic society, and the need for transparency and accountability in government. It is a story that is shrouded in secrecy, misinformation, and political intrigue, and one that demands the attention of the public and the press.
 
