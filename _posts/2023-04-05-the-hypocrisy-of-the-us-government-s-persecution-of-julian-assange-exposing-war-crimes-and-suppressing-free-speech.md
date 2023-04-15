@@ -13,6 +13,8 @@ tags:
 - Free Speech
 - Isolation
 - Psychological Torture
+- featured
+- sticky
 layout: post
 author: isaac
 title: The Hypocrisy of the US Government's Persecution of Julian Assange
