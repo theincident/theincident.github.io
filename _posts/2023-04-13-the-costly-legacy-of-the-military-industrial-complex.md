@@ -15,8 +15,6 @@ image: "/assets/img/uploads/war2.jpeg"
 ---
 The Military Industrial Complex (MIC) is a term that was first coined by former President Dwight D. Eisenhower in his farewell address to the nation on January 17, 1961. In his speech, Eisenhower warned of the growing influence of the military-industrial complex and its potential danger to democracy. Eisenhower, a former general himself, knew firsthand the dangers of allowing the military to run like a business and the negative impact this could have on the nation.
 
-The concept of the MIC can be traced back to the World War II era, when the government and private industry worked together to produce weapons and technology for the war effort. After the war, however, the government began to rely on the MIC to drive the economy, resulting in the creation of a massive industry that dominates the US economy to this day.
-
 In his farewell address, Eisenhower warned of the "unwarranted influence" of the military-industrial complex on American society, and he cautioned that its "potential for the disastrous rise of misplaced power exists and will persist." He was concerned that the MIC would become too powerful, leading to a situation where the government and military worked in tandem for their own interests, rather than for the good of the American people.
 
 Eisenhower's concerns were echoed by author and retired Marine Corps Major General, Smedley D. Butler, in his book "War is a Racket". In the book, Butler argued that war and the military-industrial complex were being used for personal financial gain rather than for the defense of the nation. Butler, like Eisenhower, warned of the inherent danger of the military running like a business and the negative impact this could have on the country.
