@@ -145,7 +145,7 @@ As with all AI-based technologies, there are limitations to AI-based trust build
 
 The future of AI-based trust building is promising, with ongoing research in the field. Advances in technology, such as the development of more sophisticated algorithms and sensors, are likely to improve the accuracy and effectiveness of AI-based trust building. However, ethical considerations will need to be taken into account as the technology continues to advance.
 
-### Chapter 6: Risks of AI-based Elimination of Lies
+### Risks of AI-based Elimination of Lies
 
 While AI-based technologies offer the potential to eliminate lies from human interaction, there are also risks associated with their use. This chapter will explore some of the potential risks and challenges of using AI to eliminate lies.
 
