@@ -26,7 +26,7 @@ One of the lies is the myth of the American dream. Many people fall victim to th
 
 Ultimately the mission we need to confront is the lies that underpin our society if we want to create a better future. And this is where AI can play a critical role. By providing us with access to vast amounts of data and enabling us to process it in real-time, AI can help us to uncover the truth and expose the lies that have been used to hold us back.
 
-Lying is an integral part of human interaction. From white lies to more serious deceptions, people lie for various reasons, such as avoiding punishment, gaining advantage, or protecting their self-interest. However, lying can have significant negative consequences, ranging from broken trust and damaged relationships to legal and ethical violations.
+Lying is an integral part of human interaction. From white lies to more serious deceptions, people lie for various reasons, such as avoiding punishment, gaining advantage, or protecting their self-interest. However, lying can have significant negative consequences, ranging from broken trust and damaged relationships to legal and ethical violations. It can be correlated with nearly every act of criminal behavior and has caused trillions of dollars of debt.
 
 Artificial Intelligence (AI) is a rapidly advancing technology that has the potential to revolutionize various aspects of human life. One of its promising applications is in addressing the issue of lying. By analyzing human behavior and language, AI can also help detect lies and prevent deception, ultimately leading to more truthful interactions.
 
