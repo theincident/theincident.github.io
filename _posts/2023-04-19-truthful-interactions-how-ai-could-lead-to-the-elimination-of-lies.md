@@ -125,7 +125,7 @@ As with AI-based lie detection, there are limitations to AI-based deception prev
 
 The future of AI-based deception prevention is promising, with ongoing research in the field. Advances in technology, such as the development of more sophisticated algorithms and sensors, are likely to improve the accuracy and effectiveness of AI-based deception prevention. However, ethical considerations will need to be taken into account as the technology continues to advance.
 
-### Chapter 5: AI and Trust Building
+### AI and Trust Building
 
 Trust is a crucial component of any relationship, whether personal or professional. AI-based technologies have the potential to enhance trust-building processes and improve the quality of human interactions.
 
