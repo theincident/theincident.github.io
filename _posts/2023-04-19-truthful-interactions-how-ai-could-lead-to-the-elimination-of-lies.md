@@ -205,15 +205,15 @@ The elimination of lies in human interaction would create a world where individu
 
 Other philosophers have also explored the idea of a future without lies. Immanuel Kant believed that the pursuit of truth was a moral duty, and that lying was never justifiable. Jean-Jacques Rousseau believed that humans were naturally honest and that it was society that corrupted them.
 
-The technology of AI can play a crucial role in bringing about this future. With its ability to process vast amounts of data and analyze patterns in human behavior, AI can help us to uncover the truth and expose the lies that hold us back. But we must also be cautious about the potential pitfalls of this technology, particularly with regards to privacy and autonomy.
+Dr. Jordan Peterson, a clinical psychologist and professor of psychology, has spoken extensively about the importance of truth in our lives. He argues that the pursuit of truth is essential for personal growth and the betterment of society. In his book "12 Rules for Life," Dr. Peterson writes that "to speak the truth is to take responsibility for reality." He argues that when we lie, we are not only deceiving others but also ourselves, and this can have serious consequences.
 
-The idea of a future without lies has been explored by many philosophers throughout history. It represents a future state of humanity where individuals are no longer held back by the limitations of society, and can achieve their full potential. With the help of AI technology, we may be able to achieve this future, but we must also be mindful of the potential pitfalls that come with it.
+The technology of AI can play a crucial role in bringing about this future. With its ability to process vast amounts of data and analyze patterns in human behavior, AI can help us to uncover the truth and expose the lies that hold us back. But we must also be cautious about the potential pitfalls of this technology, particularly with regards to privacy and autonomy.
 
 #### Language has a virus
 
-In his book "Electronic Revolution," William Burroughs introduced the concept of language as a virus. According to Burroughs, language is a virus that infects our minds and controls our thoughts and actions. He believed that language was a tool used by those in power to manipulate and control the masses.
+In his book "Electronic Revolution," William Burroughs introduced the concept of language having a virus. According to Burroughs, language has a virus that infects our minds and controls our thoughts and actions. He believed that this virus in language was a tool used by those in power to manipulate and control the masses.
 
-The idea of language as a virus is particularly relevant when it comes to the concept of lies. Lies are a form of language that infects our minds and distorts our perception of reality. They are used by those in power to manipulate and control the masses, just as Burroughs suggested.
+The idea of language having a virus is particularly relevant when it comes to the concept of lies. Lies are a form of language that infects our minds and distorts our perception of reality. They are used by those in power to manipulate and control the masses, just as Burroughs suggested.
 
 However, the concept of a future without lies is not just about eliminating a virus that infects our minds. It is also about creating a new world, one that serves everyone and is based on truth and honesty. As Nietzsche believed, it is the creative people with the power to envision and create this new world.
 
@@ -223,7 +223,7 @@ Eliminating lies from human interaction would be a crucial step towards this uto
 
 In this new world, the creative people would be empowered to use their talents to solve problems and create solutions that benefit everyone. They would be able to do so without fear of retaliation or censorship, as their ideas would be based on truth and honesty.
 
-The concept of language as a virus is a powerful metaphor for the way lies infect our minds and control our actions. But eliminating lies from human interaction is not just about eliminating a virus. It is also about creating a new world, one that serves everyone and is based on truth and honesty. This is a beautiful and possible utopia, one that we can achieve if we empower the creative people to envision and create it.
+The concept of language with a virus is a powerful metaphor for the way lies infect our minds and control our actions. But eliminating lies from human interaction is not just about eliminating a virus. It is also about creating a new world, one that serves everyone and is based on truth and honesty. This is a beautiful and possible utopia, one that we can achieve if we empower the creative people to envision and create it.
 
 #### Truth in our world right now could mean the end of fascism and tyranny
 
