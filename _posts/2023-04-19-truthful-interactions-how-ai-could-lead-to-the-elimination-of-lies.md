@@ -7,6 +7,8 @@ tags:
 - machine learning
 - human behavior
 - cognitive science
+- sticky
+- featured
 layout: post
 author: isaac
 title: 'Truthful Interactions: How AI Could Lead to the Elimination of Lies'
