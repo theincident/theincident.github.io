@@ -61,13 +61,13 @@ description: "Uncovering the truth, dismantling corruption."
       {%- assign second_post = site.posts[1] -%}
       <div class="row mb-3 d-md-flex">
         {% if second_post.image %}
-        <div class="col-md-4">
+        <div class="col-md-4 desk-rb">
           <a href="{{site.baseurl}}{{second_post.url}}">
             <img class="w-100" src="{{ second_post.image }}" alt="{{ second_post.title }}">
           </a>
         </div>
         {% endif %}
-        <div class="col-md-8 py-md-0 card-body border-dark border-left">
+        <div class="col-md-8 py-md-0 card-body">
           <h5 class="mb-2 pr-lg-3">
             <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
           </h5>
