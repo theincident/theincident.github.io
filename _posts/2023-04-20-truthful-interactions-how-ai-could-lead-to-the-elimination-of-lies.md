@@ -15,7 +15,7 @@ title: 'Truthful Interactions: How AI Could Lead to the Elimination of Lies'
 categories:
 - Ethics and Society
 - Artificial Intelligence(AI)
-image: "/assets/img/uploads/truthgpt-g.jpg"
+image: "/assets/img/uploads/truthgpt-t.jpg"
 
 ---
 From an evolutionary perspective, the emergence of AI has the potential to eliminate lies in human interaction by creating a world where information and data are so readily available that it becomes impossible to deceive others. In a world where AI has access to vast amounts of data and is able to process it in real-time, lies will no longer be able to hide in the shadows.
