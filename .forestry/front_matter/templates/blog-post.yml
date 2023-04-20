@@ -37,3 +37,5 @@ fields:
       path: 
   label: author
   hidden: true
+pages:
+- _posts/truthful-interactions-how-ai-could-lead-to-the-elimination-of-lies.md
