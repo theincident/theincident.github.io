@@ -10,6 +10,7 @@
 a.logo p {
   margin-top:3px;
   color:black;
+  display:inline-block;
 }
 body {
 	overflow-x:hidden;
