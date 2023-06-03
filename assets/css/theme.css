@@ -7,7 +7,9 @@
     font-style: normal;
 
 }
-
+a.logo p {
+  margin-top:3px;
+}
 body {
 	overflow-x:hidden;
 	padding-top:69.75px;
