@@ -7,7 +7,6 @@ tags:
 - machine learning
 - human behavior
 - cognitive science
-- sticky
 - featured
 layout: post
 author: isaac
