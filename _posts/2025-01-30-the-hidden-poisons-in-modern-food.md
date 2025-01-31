@@ -41,7 +41,7 @@ The industrialization of food production has brought with it a slew of chemical 
 - **Preservatives**: Sodium nitrate, used in processed meats like bacon and hot dogs, has been linked to an increased risk of colorectal cancer. Similarly, butylated hydroxyanisole (BHA) and butylated hydroxytoluene (BHT), found in cereals and snack foods, are suspected endocrine disruptors.
 - **Emulsifiers and Stabilizers**: Chemicals like polysorbate 80 and carboxymethylcellulose, used to improve texture in ice cream and salad dressings, have been shown to damage the gut lining, potentially leading to inflammation and autoimmune conditions.
 
-The convenience of processed foods comes at a cost, and that cost is often our health.
+The convenience of processed foods comes at a cost, and that cost is your health.
 
 ---
 
