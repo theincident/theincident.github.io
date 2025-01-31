@@ -5,7 +5,7 @@ tags:
 - technology
 - surveillance
 layout: post
-author: isaac
+author: harley
 title: Sinister AI is Already Here
 categories:
 - ai
