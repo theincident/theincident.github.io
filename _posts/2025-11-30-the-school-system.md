@@ -29,7 +29,6 @@ image: "/assets/img/uploads/education.jpg"
 
 ---
 
-# Education at the Edge of Complexity  
 ## Rethinking the Modern School System
 
 The modern school system did not emerge from a study of human flourishing. It emerged from an industrial paradigm designed for predictability, obedience, and scale. Much of the educational architecture still used today can be traced back to the Prussian model of the nineteenth century, a system explicitly engineered to produce disciplined soldiers and compliant workers. Its design succeeded in maintaining industrial economies and strengthening the state, but it did so by shaping human minds in ways that limit autonomy, creativity, and authentic intelligence.
